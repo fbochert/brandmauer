@@ -1,0 +1,401 @@
+﻿Nummer,Bezeichnung,Name,NUTS3,Website,AfD,CDU_CSU,SPD,Gruene,FDP,Linke,FW,NPD/REP,Andere,Fraktionslos,Insgesamt,Flaeche (km2),Bevoelkerung,Dichte,Migration,BIP,Arbeitslos,Kooperationen,Inhaltlich,Personell,Organisatorisch,Sitzungen,AfD-Anträge,keine_AfD,keine_Daten,keine_Abstimmungsergebnisse,stadtstaat,Notizen
+1001,Kreisfreie Stadt,"Flensburg, Stadt",DEF01,https://ratsinfo.flensburg.de/startseite,0,8,8,8,3,3,0,0,13,0,43,56.73,92550,1631,17,65270,8.5,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+1002,Kreisfreie Stadt,"Kiel, Landeshauptstadt",DEF02,https://www.kiel.de/de/politik_verwaltung/ratsversammlung/infosystem/index.php,3,14,18,12,4,4,0,0,4,0,59,118.65,247717,2088,12.5,70750,8,8,8,0,0,47,35,0,0,0,0,
+1003,Kreisfreie Stadt,"Lübeck, Hansestadt",DEF03,https://www.luebeck.de/de/rathaus/politik/pil/bi/si010_e.asp,3,12,14,8,2,2,0,0,8,0,49,214.19,218095,1018,11.2,76904,8.1,1,1,0,0,39,16,0,0,0,0,
+1004,Kreisfreie Stadt,"Neumünster, Stadt",DEF04,https://session.neumuenster.de/session/bi/info.php,0,15,12,7,2,2,0,0,5,0,43,71.66,79502,1109,13.5,70620,8.7,0,0,0,0,8,0,0,0,0,0,AfD erst ab 2023 vertreten
+1051,Kreis,Dithmarschen,DEF05,https://www.dithmarschen.sitzung-online.de/pi/home.asp,3,22,11,5,5,2,0,0,6,0,54,1428.17,135252,95,6.5,81260,5.9,0,0,0,0,26,7,0,0,0,0,
+1053,Kreis,Herzogtum Lauenburg,DEF06,https://www.herzogtum-lauenburg.sitzung-online.de/public/,4,18,12,9,3,2,0,0,1,0,49,1263.07,203712,161,9,69969,5.3,0,0,0,0,19,12,0,0,0,0,
+1054,Kreis,Nordfriesland,DEF07,https://ratsinfo.nordfriesland.de/,2,21,11,8,3,1,0,0,10,0,56,2083.56,169043,81,7.8,69985,5,0,0,0,0,28,0,0,0,0,0,
+1055,Kreis,Ostholstein,DEF08,https://www.kreis-oh.sitzung-online.de/public/si010?7,4,23,15,10,4,0,2,0,1,2,61,1393.02,203606,146,6.3,63337,5.1,0,0,0,0,22,0,0,0,0,0,
+1056,Kreis,Pinneberg,DEF09,https://sitzungsinfo.kreis-pinneberg.de/bi-r/si010_r.asp,4,22,15,11,5,3,0,0,2,0,62,664.25,322130,485,11.8,75449,5.3,4,4,0,0,30,31,0,0,0,0,
+1057,Kreis,Plön,DEF0A,https://www.kreis-ploe.de/session/buergerinfo/info.php,3,20,13,11,3,2,0,0,4,0,56,1083.56,131266,121,5,64728,4.3,1,1,0,0,22,24,0,0,0,0,
+1058,Kreis,Rendsburg-Eckernförde,DEF0B,https://www.kreis-rendsburg-eckernfoerde.de/politik-verwaltung/politik-und-verwaltung-des-kreises/allris/si010,3,25,14,10,4,2,0,0,4,0,62,2189.79,278979,127,5.8,74112,4.3,1,1,0,0,35,26,0,0,0,0,
+1059,Kreis,Schleswig-Flensburg,DEF0C,https://kreisinfo.schleswig-flensburg.de/,2,22,11,8,2,2,2,0,7,0,56,2071.28,206038,99,5.7,69648,5.2,1,1,0,0,20,1,0,0,0,0,
+1060,Kreis,Segeberg,DEF0D,https://allris4.segeberg.de/,5,23,13,9,5,2,2,0,3,0,62,1344.47,284988,212,9.3,75680,4.8,1,1,0,0,22,6,0,0,0,0,
+1061,Kreis,Steinburg,DEF0E,https://www.steinburg.sitzung-online.de/pi/si010_e.asp,3,22,12,8,4,2,1,0,2,0,54,1055.7,132419,125,7.3,79862,5.9,0,0,0,0,27,2,0,0,0,0,
+1062,Kreis,Stormarn,DEF0F,https://www.kreis-stormarn.de/kreis/ausschuesse/sitzungen.html,4,24,14,12,5,3,0,0,2,0,64,766.22,247973,324,8.1,76742,3.6,0,0,0,0,19,1,0,0,0,0,
+2000,Kreisfreie Stadt,"Hamburg, Freie und Hansestadt",DE600,https://www.buergerschaft-hh.de/parldok/,7,15,53,33,2,11,0,0,0,2,123,755.09,1892122,2506,17.3,101308,7.5,NA,NA,NA,NA,NA,NA,0,0,0,1,Stadtstaaten werden nicht analysiert.
+3101,Kreisfreie Stadt,"Braunschweig, Stadt",DE911,https://ratsinfo.braunschweig.de/bi/si010_e.asp,2,13,16,12,3,0,0,0,7,1,54,192.7,251804,1307,11.5,122031,5.2,3,3,0,0,36,35,0,0,0,0,
+3102,Kreisfreie Stadt,"Salzgitter, Stadt",DE912,https://www.salzgitter.sitzung-online.de/public/,5,14,16,2,2,2,2,0,3,0,46,224.49,104548,466,20,94485,9.2,0,0,0,0,27,32,0,0,0,0,AfD erst ab 12.09.2021 im Stadtrat
+3103,Kreisfreie Stadt,"Wolfsburg, Stadt",DE913,https://ratsinfob.stadt.wolfsburg.de/si010?0,3,13,15,5,3,0,0,0,7,0,46,204.62,125961,616,16.4,153485,5.3,0,0,0,0,33,9,0,0,0,0,
+3151,Landkreis,Gifhorn,DE914,https://www.lk-gifhorn.sitzung-online.de/public/,5,20,16,6,2,1,0,0,0,4,54,1567.57,180232,115,7.3,65984,4.3,20,20,0,0,29,165,0,0,0,0,
+3153,Landkreis,Goslar,DE916,https://kis.landkreis-goslar.de/sessionnet_bi/info.asp,5,15,19,4,3,2,0,0,2,0,50,966.71,134672,139,10.1,65426,6.6,2,2,0,0,33,12,0,0,0,0,
+3154,Landkreis,Helmstedt,DE917,https://ris.helmstedt.de/index.php?id=30,3,14,15,3,2,1,0,1,3,0,42,676.13,92470,137,7.3,66392,6,2,2,0,0,23,20,0,0,0,0,
+3155,Landkreis,Northeim,DE918,https://ris.kdgoe.de/LKNOM_public/,3,16,20,3,4,1,0,0,3,0,50,1268.77,133258,105,6.8,65268,5.4,2,2,0,0,30,14,0,0,0,0,
+3157,Landkreis,Peine,DE91A,https://www.landkreis-peine.de/buergerinformationssystem/si010_e.asp,4,15,21,4,2,1,1,0,2,0,50,536.5,138931,259,8.6,69405,5.1,2,1,1,0,25,2,0,0,0,0,
+3158,Landkreis,Wolfenbüttel,DE91B,https://kreistag.lk-wf.de/bi/info.asp,5,15,17,5,2,2,0,0,0,0,46,724.32,120531,166,6.4,70511,4.7,1,1,0,0,24,5,0,0,0,0,
+3159,Landkreis,Göttingen,DE91C,https://sessionnet.krz.de/kreis_goettingen/bi/info.asp,0,21,25,8,4,3,0,0,8,3,72,1755.41,328458,187,9.3,71257,5.7,0,0,0,0,15,3,0,0,0,0,AfD erst ab 2021 im Kreistag.
+3241,Landkreis,Region Hannover,DE929,https://e-government.hannover-stadt.de/lhhsimwebre.nsf,9,24,26,12,5,2,0,0,6,0,84,2297.13,1173891,511,14.7,80313,7.6,7,7,0,0,38,59,0,0,0,0,
+3251,Landkreis,Diepholz,DE922,https://www.diepholz.de/allris/si010_e.asp,4,21,17,7,5,2,0,0,5,1,62,1991.02,222816,112,8.9,69639,4.3,1,1,0,0,24,10,0,0,0,0,
+3252,Landkreis,Hameln-Pyrmont,DE923,https://ktinfo.hameln-pyrmont.de/public/si010,4,16,17,5,2,2,0,0,4,0,50,797.54,150640,189,11.4,81268,6.6,1,1,0,0,21,4,0,0,0,0,
+3254,Landkreis,Hildesheim,DE925,https://ratsinfoservice.de/ris/hildesheimlk,6,21,23,6,2,2,0,0,4,0,64,1208.34,278371,230,8.9,66121,6.4,1,1,0,0,25,17,0,0,0,0,
+3255,Landkreis,Holzminden,DE926,https://landkreis-holzminden.ratsinfomanagement.net/,3,13,14,4,5,1,0,0,2,0,42,694.27,70911,102,7.8,77765,6.5,0,0,0,0,32,0,0,0,0,0,
+3256,Landkreis,Nienburg (Weser),DE927,https://buergerinfo.lk-ni.de/info.php,4,18,14,4,2,1,0,0,3,0,46,1400.81,123469,88,8.9,71543,5.1,0,0,0,0,19,0,0,0,0,0,
+3257,Landkreis,Schaumburg,DE928,https://schaumburg.ratsinfomanagement.net/,4,16,19,6,0,2,0,0,7,0,54,675.67,159960,237,9,66976,5.3,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten.
+3351,Landkreis,Celle,DE931,https://www.landkreis-celle.de/Verwaltung-Politik/B%C3%BCrgerinformation-Sitzungskalender/,6,21,16,5,4,1,0,0,4,1,58,1550.83,181994,117,8.2,68578,6,0,0,0,0,20,4,0,0,0,0,
+3352,Landkreis,Cuxhaven,DE932,https://cuxhaven.ratsinfomanagement.net/startseite,5,23,20,5,2,2,1,0,0,0,58,2058.96,201413,98,6.4,69497,5.7,3,3,0,0,31,33,0,0,0,0,
+3353,Landkreis,Harburg,DE933,https://allris.landkreis-harburg.de/public/si010,3,21,16,9,4,2,5,0,2,0,62,1248.45,261890,210,8.4,67126,4.4,3,3,0,0,25,15,0,0,0,0,
+3354,Landkreis,Lüchow-Dannenberg,DE934,https://ratsinfo.luechow-dannenberg.de/buergerinfo/info.asp,3,13,7,5,1,0,0,0,13,0,42,1227.32,49178,40,6.1,62458,7.5,2,1,0,1,29,2,0,0,0,0,
+3355,Landkreis,Lüneburg,DE935,https://www.landkreis-lueneburg.de/allris/si010.asp,5,16,18,10,3,4,0,0,2,0,58,1327.83,187552,141,7,66569,5.8,5,4,0,1,36,20,0,0,0,0,
+3356,Landkreis,Osterholz,DE936,https://landkreis-osterholz.ratsinfomanagement.net/,4,14,15,6,3,3,0,0,1,0,46,652.67,116551,179,6,62589,3.3,1,0,1,0,18,2,0,0,0,0,
+3357,Landkreis,Rotenburg (Wümme),DE937,https://sessionnet.lk-rotenburg.de/sessionnet/bi/info.php,0,24,17,4,3,1,1,0,3,0,53,2074.77,167604,81,7,70755,3.6,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD-Fraktion über gesamten Zeitraum hinweg.
+3358,Landkreis,Heidekreis,DE938,https://egov3.heidekreis.de/somacos/buergerinfo/info.asp,4,19,16,5,4,0,0,0,2,0,50,1881.46,145394,77,10.3,72932,5.9,2,2,0,0,21,5,0,0,0,0,
+3359,Landkreis,Stade,DE939,https://www.landkreis-stade.de/allris/si010_e.asp,2,20,16,6,2,2,6,0,4,0,58,1267.38,210306,166,9.3,80016,6,0,0,0,0,20,14,0,0,0,0,
+3360,Landkreis,Uelzen,DE93A,https://sitzungsdienst.landkreis-uelzen.de/public/,3,15,11,6,2,1,0,0,4,0,42,1462.6,94362,65,6.5,67453,5,1,1,0,0,22,9,0,0,0,0,
+3361,Landkreis,Verden,DE93B,https://landkreis-verden.ratsinfomanagement.net/,4,18,16,7,2,2,0,0,0,1,50,789.33,140913,179,8.3,70830,3.6,0,0,0,0,18,1,0,0,0,0,
+3401,Kreisfreie Stadt,"Delmenhorst, Stadt",DE941,https://www.sitzungsdienst-delmenhorst.de/bi-r/home.asp,3,12,12,5,6,1,0,0,3,2,44,62.45,78385,1255,17.1,61135,10.1,0,0,0,0,50,6,0,0,0,0,keine genauen Abstimmungsergebnisse
+3402,Kreisfreie Stadt,"Emden, Stadt",DE942,https://gremieninfo.emden.de/bi/info.asp,0,7,14,7,5,0,0,0,7,0,40,112.34,50535,450,11.1,83174,8.5,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+3403,Kreisfreie Stadt,"Oldenburg (Oldenburg), Stadt",DE943,https://buergerinfo.oldenburg.de/info.php,1,9,14,16,3,0,0,0,6,1,50,103.09,172830,1676,11.4,71497,6.5,0,0,0,0,23,0,0,0,0,0,AfD ab 01.11.2021 nicht mehr als Fraktion im Stadtrat vertreten.
+3404,Kreisfreie Stadt,"Osnabrück, Stadt",DE944,https://ris.osnabrueck.de/bi/allris.net.asp,0,15,12,14,3,2,0,0,2,1,49,119.8,167366,1397,14.3,66783,7.1,0,0,0,0,25,0,0,0,0,0,AfD seit 12.09.2021
+3405,Kreisfreie Stadt,"Wilhelmshaven, Stadt",DE945,https://ratsinfoservice.de/ris/wilhelmshaven,3,9,12,5,3,0,1,0,11,0,44,107.11,76089,710,10.5,74376,10.9,3,3,0,0,64,20,0,0,0,0,
+3451,Landkreis,Ammerland,DE946,https://buergerinfo.ammerland.de/info.asp,3,16,12,6,3,1,0,0,5,0,46,730.65,128253,176,6.7,67493,3.9,0,0,0,0,19,0,0,0,0,0,
+3452,Landkreis,Aurich,DE947,https://session.landkreis-aurich.de/buergerinfo/info.php,4,14,21,3,3,2,0,0,8,3,58,1287.35,192072,149,5.7,62207,6.5,0,0,0,0,34,3,0,0,0,0,
+3453,Landkreis,Cloppenburg,DE948,https://buergerinfo.lkclp.de/info.asp,2,28,10,2,2,0,0,0,2,2,48,1420.34,177701,125,12.2,65908,4.4,0,0,0,0,25,1,0,0,0,0,
+3454,Landkreis,Emsland,DE949,https://landkreis-emsland.ratsinfomanagement.net/sitzungsinfo/,4,39,13,4,2,1,0,0,0,3,66,2883.67,338052,117,11.8,77546,2.9,0,0,0,0,22,11,0,0,0,0,
+3455,Landkreis,Friesland,DE94A,https://buergerinfo.friesland.de/info.asp,3,10,15,4,2,1,0,0,7,0,42,609.53,100277,165,4.3,64628,4.3,0,0,0,0,23,0,0,0,0,0,
+3456,Landkreis,Grafschaft Bentheim,DE94B,https://sessionnet.owl-it.de/grafschaft/bi/info.asp,1,24,15,4,2,1,0,0,3,0,50,981.79,141269,144,15.2,69400,2.7,0,0,0,0,33,0,0,0,0,0,
+3457,Landkreis,Leer,DE94C,https://lkleer.gremien.info/,2,17,21,5,1,1,0,0,7,0,54,1085.72,174348,161,8.8,67220,5.6,1,0,0,1,21,3,0,0,0,0,
+3458,Landkreis,Oldenburg,DE94D,https://ratsinfo.oldenburg-kreis.de/ratsinfo,4,15,14,6,5,3,1,0,2,0,50,1064.83,133913,126,NA,NA,NA,0,0,0,0,22,0,0,0,0,0,
+3459,Landkreis,Osnabrück,DE94E,https://kis.lkos.de/bi/allris.net.asp,3,28,20,7,3,3,0,0,4,0,68,2121.8,366221,173,NA,NA,NA,0,0,0,0,30,3,0,0,0,0,
+3460,Landkreis,Vechta,DE94F,https://kreistagsinfo.landkreis-vechta.de/bi/info.asp,3,28,10,2,2,1,0,0,2,0,48,814.21,146924,180,13.7,71086,3.7,1,1,0,0,21,4,0,0,0,0,
+3461,Landkreis,Wesermarsch,DE94G,https://kreistagsinformation.landkreis-wesermarsch.de/bi/info.asp,3,12,16,4,3,0,0,0,4,0,42,824.78,89568,109,8.3,78404,6.2,1,1,0,0,10,2,0,0,0,0,AfD nur bis 2021 im Kreistag
+3462,Landkreis,Wittmund,DE94H,https://buergerinfo.landkreis-wittmund.de/info.asp,2,16,17,3,1,1,0,0,2,0,42,656.86,58359,89,5,66435,5.8,0,0,0,0,21,3,0,0,0,0,
+4011,Kreisfreie Stadt,"Bremen, Stadt",DE501,https://www.bremische-buergerschaft.de/index.php?id=673&L=2,5,24,23,16,5,10,0,0,1,0,84,318.2,569396,1789,19.2,83433,10.2,NA,NA,NA,NA,NA,NA,0,0,0,1,Stadtstaaten werden nicht analysiert.
+4012,Kreisfreie Stadt,"Bremerhaven, Stadt",DE502,https://sitzungsapp.bremerhaven.de/ris,2,10,13,6,3,3,0,0,5,6,48,101.41,115468,1139,19.9,65679,13.1,NA,NA,NA,NA,NA,NA,0,0,0,1,Stadtstaaten werden nicht analysiert.
+5111,Kreisfreie Stadt,"Düsseldorf, Stadt",DEA11,https://ris-duesseldorf.itk-rheinland.de/sessionnetduebi/info.asp,3,30,16,22,8,4,1,0,6,0,90,217.41,629047,2893,20.9,97648,7.8,2,2,0,0,39,38,0,0,0,0,
+5112,Kreisfreie Stadt,"Duisburg, Stadt",DEA12,https://sessionnet.krz.de/duisburg/bi/info.asp,10,22,32,19,3,3,0,0,12,1,102,232.84,502211,2157,22.3,78910,12.3,1,1,0,0,31,20,0,0,0,0,
+5113,Kreisfreie Stadt,"Essen, Stadt",DEA13,https://ris.essen.de/,5,30,21,16,3,3,3,0,4,1,86,210.34,584580,2779,17.3,79926,10.8,6,6,0,0,42,18,0,0,0,0,
+5114,Kreisfreie Stadt,"Krefeld, Stadt",DEA14,https://ris.krefeld.de/,3,18,16,11,3,2,2,0,3,0,58,137.78,228426,1658,18.1,78969,10.8,2,2,0,0,39,17,0,0,0,0,
+5116,Kreisfreie Stadt,"Mönchengladbach, Stadt",DEA15,https://ris-moenchengladbach.itk-rheinland.de/sessionnetmglbi/info.asp,5,26,20,16,4,3,0,0,2,2,78,170.47,268465,1575,18.1,67142,10.3,0,0,0,0,22,3,0,0,0,0,
+5117,Kreisfreie Stadt,"Mülheim an der Ruhr, Stadt",DEA16,https://ratsinfo.muelheim-ruhr.de/buerger/allris.net.asp,3,14,12,13,3,0,0,0,5,0,50,91.28,172404,1889,16.6,80355,8.5,0,0,0,0,29,2,0,0,0,0,
+5119,Kreisfreie Stadt,"Oberhausen, Stadt",DEA17,https://ratsinfo.oberhausen.de/,4,19,19,8,2,3,0,0,2,0,57,77.09,210824,2735,16.3,64234,10.4,0,0,0,0,30,24,0,0,0,0,
+5120,Kreisfreie Stadt,"Remscheid, Stadt",DEA18,https://sessionnet.krz.de/remscheid/bi/info.asp,0,17,20,9,3,3,0,0,6,0,58,74.52,112613,1511,19.4,71487,7.5,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+5122,Kreisfreie Stadt,"Solingen, Klingenstadt",DEA19,https://ratsportal.solingen.de/,1,16,14,9,3,3,0,0,6,0,52,89.54,160643,1794,17.3,74447,7.8,0,0,0,0,28,0,0,0,0,0,
+5124,Kreisfreie Stadt,"Wuppertal, Stadt",DEA1A,https://ris.wuppertal.de/info.asp,3,20,23,16,6,5,2,0,5,0,80,168.39,358876,2131,21.3,77401,9.5,1,1,0,0,43,2,0,0,0,0,
+5154,Kreis,Kleve,DEA1B,https://kis.kreis-kleve.de/,2,27,12,12,4,1,0,0,2,0,60,1232.99,319290,259,16.2,70246,5.3,1,1,0,0,27,15,0,0,0,0,
+5158,Kreis,Mettmann,DEA1C,https://session.kreis-mettmann.de/bi/info.asp,5,33,15,19,5,3,0,0,6,0,86,407.22,489794,1203,13.2,83350,6.7,0,0,0,0,21,3,0,0,0,0,
+5162,Kreis,Rhein-Kreis Neuss,DEA1D,https://session.rhein-kreis-neuss.de/bi/info.asp,3,29,18,15,5,2,2,0,2,0,76,576.61,457264,793,12.4,90227,5.8,0,0,0,0,20,3,0,0,0,0,
+5166,Kreis,Viersen,DEA1E,https://kis.kreis-viersen.de/,2,27,12,14,5,2,1,0,1,0,64,563.28,300882,534,10.5,69171,5.8,0,0,0,0,54,0,0,0,0,0,
+5170,Kreis,Wesel,DEA1F,https://kis.kreis-wesel.de/,4,22,19,12,4,3,0,0,2,0,66,1042.76,465838,447,9.9,72105,6.5,0,0,0,0,21,6,0,0,0,0,
+5314,Kreisfreie Stadt,"Bonn, Stadt",DEA22,https://www.bonn.sitzung-online.de/public/,2,18,12,17,3,4,0,0,11,0,67,141.06,336465,2385,17.6,105836,7.7,0,0,0,0,45,0,0,0,0,0,
+5315,Kreisfreie Stadt,"Köln, Stadt",DEA23,https://ratsinformation.stadt-koeln.de/info.asp,4,19,19,26,5,6,1,0,10,0,90,405.02,1084831,2678,19.1,84943,9.3,7,7,0,0,45,67,0,0,0,0,
+5316,Kreisfreie Stadt,"Leverkusen, Stadt",DEA24,https://ris.leverkusen.de/info.asp,3,14,13,9,3,2,0,0,8,0,52,78.87,165748,2102,17.3,103645,8,27,26,1,0,44,31,0,0,0,0,
+5334,Kreis,Städteregion Aachen,DEA2D,https://gremieninfo.staedteregion-aachen.de/public/,3,23,18,18,4,3,0,0,3,0,72,706.91,562559,796,16.1,75055,7.8,1,1,0,0,23,3,0,0,0,0,
+5358,Kreis,Düren,DEA26,https://www.sdnet.kreis-dueren.de/startseite,4,25,15,9,3,2,0,0,4,0,62,941.58,270833,288,11.7,68604,6.9,0,0,0,0,26,0,0,0,0,0,
+5362,Kreis,Rhein-Erft-Kreis,DEA27,https://sdnet.rhein-erft-kreis.de/,4,30,20,15,4,3,3,0,1,0,80,704.72,478126,678,12.9,89220,6.9,0,0,0,0,19,8,0,0,0,0,
+5366,Kreis,Euskirchen,DEA28,https://sdnet.kreis-euskirchen.de/,4,21,13,8,4,1,0,0,3,0,54,1248.73,197247,158,7.9,69646,5.9,0,0,0,0,21,0,0,0,0,0,
+5370,Kreis,Heinsberg,DEA29,https://sitzungsdienst.kreis-heinsberg.de/bi/info.asp,2,28,9,9,3,1,0,0,2,0,54,627.91,261833,417,12.4,65413,5.4,0,0,0,0,27,2,0,0,0,0,
+5374,Kreis,Oberbergischer Kreis,DEA2A,http://session.obk.de/bi/info.asp,4,25,14,11,4,2,0,0,4,0,64,918.85,275404,300,10.1,72085,5.5,0,0,0,0,23,6,0,0,0,0,
+5378,Kreis,Rheinisch-Bergischer Kreis,DEA2B,https://rbk4.rbkdv.de/,3,27,13,17,5,2,3,0,0,0,70,437.32,286213,654,9.8,72829,6.1,0,0,0,0,20,23,0,0,0,0,
+5382,Kreis,Rhein-Sieg-Kreis,DEA2C,http://session.rhein-sieg-kreis.de/bi/info.asp,4,34,18,19,5,3,1,0,2,0,86,1153.21,608335,528,10.5,72245,5.6,0,0,0,0,21,5,0,0,0,0,
+5512,Kreisfreie Stadt,"Bottrop, Stadt",DEA31,https://ratsinfo-bottrop.de/,4,14,24,8,2,2,0,0,6,0,60,100.61,118113,1174,11.8,62503,8,0,0,0,0,31,11,0,0,0,0,
+5513,Kreisfreie Stadt,"Gelsenkirchen, Stadt",DEA32,https://ratsinfo.gelsenkirchen.de/ratsinfo/gelsenkirchen.html,11,20,31,11,4,3,0,0,8,0,88,104.94,263000,2506,22.5,76209,14.8,2,1,1,0,35,56,0,0,0,0,
+5515,Kreisfreie Stadt,"Münster, Stadt",DEA33,https://www.stadt-muenster.de/sessionnet/sessionnetbi/info.php,1,23,11,20,3,3,0,0,5,0,66,303.28,320946,1058,11.1,78545,4.9,0,0,0,0,31,0,0,0,0,0,
+5554,Kreis,Borken,DEA34,https://secure.kreis-borken.de/BI/info.asp,2,30,9,9,4,1,0,0,5,0,60,1420.98,379070,267,9.9,71016,3.6,0,0,0,0,24,0,0,0,0,0,
+5558,Kreis,Coesfeld,DEA35,https://www.kreis-coesfeld.de/sessionnet/sessionnetbi/info.php,0,28,10,13,3,1,0,0,3,0,58,1112.04,224692,202,6.8,68124,2.9,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+5562,Kreis,Recklinghausen,DEA36,https://kvrecklinghausen.gremien.info/index.php,5,24,22,13,3,3,0,0,2,0,72,761.31,619732,814,12.2,67836,8.5,0,0,0,0,21,11,0,0,0,0,
+5566,Kreis,Steinfurt,DEA37,https://sessionnet.krz.de/kreis_steinfurt/bi/info.asp,2,26,16,13,4,2,0,0,3,0,66,1795.75,456464,254,10.1,71398,4.1,0,0,0,0,21,14,0,0,0,0,
+5570,Kreis,Warendorf,DEA38,https://www.kreis-warendorf.de/w1/sessionnet/bi/info.php,2,26,13,12,4,2,0,0,5,0,64,1319.42,282263,214,11.1,69918,4.7,0,0,0,0,22,2,0,0,0,0,
+5711,Kreisfreie Stadt,"Bielefeld, Stadt",DEA41,https://anwendungen.bielefeld.de/bi/info.asp,2,18,16,14,5,4,0,0,5,1,65,258.83,338332,1307,15.9,67870,8.7,NA,NA,NA,NA,45,8,0,0,1,0,keine genauen Abstimmungsergebnisse
+5754,Kreis,Gütersloh,DEA42,https://ratsinfo.kreis-guetersloh.de/startseite,3,28,14,15,4,2,0,0,6,0,72,969.21,371309,383,13.8,81685,4,0,0,0,0,24,4,0,0,0,0,
+5758,Kreis,Herford,DEA43,"https://www.kreis-herford.de/KREIS-HERFORD/Politik-Recht-und-Demokratie/iRICH-App-f%C3%BCr-B%C3%BCrgerinnen-und-B%C3%BCrger/ (bitte, wenn möglich, App herunterladen und Niederschriften analysieren)",3,15,18,8,2,2,0,0,2,0,50,450.4,253551,563,10.2,72177,5.5,2,2,0,0,22,10,0,0,0,0,
+5762,Kreis,Höxter,DEA44,https://kreis-hoexter.gremien.info/,2,22,8,7,2,1,0,0,4,0,46,1201.42,141819,118,6.5,66703,3.9,0,0,0,0,26,1,0,0,0,0,
+5766,Kreis,Lippe,DEA45,https://sessionnet.owl-it.de/kreis_lippe/bi/info.asp,3,17,18,12,4,2,2,0,2,0,60,1246.21,350588,281,9.1,70919,5.7,0,0,0,0,25,1,0,0,0,0,
+5770,Kreis,Minden-Lübbecke,DEA46,https://minden-luebbecke.ratsinfomanagement.net/,4,23,18,11,4,2,0,0,2,0,64,1152.42,315974,274,9,80339,5.3,0,0,0,0,27,2,0,0,0,0,
+5774,Kreis,Paderborn,DEA47,https://sessionnet.krz.de/kreis_paderborn/bi/info.asp,3,29,9,11,3,2,1,0,2,0,60,1246.8,313758,252,9.8,70436,5.3,0,0,0,0,33,14,0,0,0,0,
+5911,Kreisfreie Stadt,"Bochum, Stadt",DEA51,https://bochum.ratsinfomanagement.net/,5,18,29,19,3,5,0,0,7,0,86,145.66,365742,2511,14.1,70517,9.1,6,6,0,0,40,22,0,0,0,0,
+5913,Kreisfreie Stadt,"Dortmund, Stadt",DEA52,https://sessionnet.krz.de/dortmund/bi/info.asp,5,20,27,22,4,7,0,0,5,0,90,280.71,593317,2114,19.1,73866,11.4,33,31,2,0,35,57,0,0,0,0,
+5914,Kreisfreie Stadt,"Hagen, Stadt der FernUniversität",DEA53,https://www.hagen.de/irj/portal/AllrisB?redirectOrigin=portal,5,14,12,7,2,1,0,0,9,0,50,160.45,189783,1183,21.1,69759,11.7,1,1,0,0,40,3,0,0,0,0,Keine Protokolle
+5915,Kreisfreie Stadt,"Hamm, Stadt",DEA54,https://www.hamm.de/ratplus/,3,19,22,7,3,2,0,0,2,0,58,226.43,180849,799,16.7,65703,8.5,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten.
+5916,Kreisfreie Stadt,"Herne, Stadt",DEA55,https://www.herne.de/allris/si016.asp,4,12,28,10,2,3,0,0,4,0,63,51.42,157368,3060,19.4,66692,11.4,2,2,0,0,41,6,0,0,0,0,
+5954,Kreis,Ennepe-Ruhr-Kreis,DEA56,https://sessionnet.krz.de/en-kreis/bi/info.asp,3,16,19,13,4,2,1,0,2,0,60,409.64,325193,794,11,69233,6.6,0,0,0,0,20,12,0,0,0,0,
+5958,Kreis,Hochsauerlandkreis,DEA57,https://hochsauerlandkreis.ratsinfomanagement.net/,2,26,12,7,3,1,0,0,3,0,54,1960.17,261647,133,9.5,68416,4.2,0,0,0,0,27,9,0,0,0,0,
+5962,Kreis,Märkischer Kreis,DEA58,https://maerkischer-kreis.org/aktuelle-informationen/sitzungskalender/,4,29,18,11,6,3,0,0,5,0,76,1061.09,410346,387,13.8,73764,6.9,0,0,0,0,18,0,0,0,0,0,
+5966,Kreis,Olpe,DEA59,https://gremien.kreis-olpe.de/,2,25,9,6,2,1,0,0,3,0,48,712.11,134439,189,9.8,74334,3.9,0,0,0,0,25,6,0,0,0,0,
+5970,Kreis,Siegen-Wittgenstein,DEA5A,https://gremien.siegen-wittgenstein.de/,4,18,16,8,3,2,0,0,3,0,54,1132.89,277136,245,11.4,71049,5.4,3,3,0,0,22,11,0,0,0,0,
+5974,Kreis,Soest,DEA5B,https://www.kreis-soest.sitzung-online.de/public/,3,28,14,11,5,2,0,0,5,0,68,1328.64,306068,230,10.4,76815,5.5,0,0,0,0,22,1,0,0,0,0,
+5978,Kreis,Unna,DEA5C,https://security.kreis-unna.de/sessionnet/bi/info.php,0,20,23,14,3,2,1,0,5,0,68,543.21,398866,734,11.2,72773,7.4,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+6411,Kreisfreie Stadt,"Darmstadt, Wissenschaftsstadt",DE711,https://darmstadt.gremien.info/,3,10,12,20,4,5,0,0,15,3,72,122.07,162243,1329,21.1,101492,5.8,9,9,0,0,44,22,0,0,0,0,
+6412,Kreisfreie Stadt,"Frankfurt am Main, Stadt",DE712,https://www.stvv.frankfurt.de/parlis2/parlis.html,4,20,17,23,7,6,0,0,14,0,91,248.31,773068,3113,29.5,100966,6.6,43,42,1,0,48,88,0,0,0,0,
+6413,Kreisfreie Stadt,"Offenbach am Main, Stadt",DE713,https://pio.offenbach.de/,5,13,20,13,4,6,3,0,7,0,71,44.88,134170,2990,37.5,74327,9.6,NA,NA,NA,NA,45,42,0,0,1,0,keine genauen Abstimmungsergebnisse
+6414,Kreisfreie Stadt,"Wiesbaden, Landeshauptstadt",DE714,https://piwi.wiesbaden.de/aktuelles?2,5,19,17,17,8,6,3,0,6,0,81,203.87,283083,1389,20.6,98535,7.7,0,0,0,0,37,15,0,0,0,0,
+6431,Landkreis,Bergstraße,DE715,https://bis.kreis-bergstrasse.de/info.asp,6,24,17,8,7,2,4,0,3,0,71,719.47,275205,383,14.3,75867,3.7,0,0,0,0,25,6,0,0,0,0,
+6432,Landkreis,Darmstadt-Dieburg,DE716,https://session-net.ladadi.de/buergerinfo/info.asp,4,19,23,10,4,3,3,0,5,0,71,658.64,300658,456,14.9,83045,4.6,3,3,0,0,33,11,0,0,0,0,
+6433,Landkreis,Groß-Gerau,DE717,https://kreisgg.gremien.info/,9,17,24,7,3,5,5,0,1,0,71,453.03,280308,619,23.3,101880,5.6,1,1,0,0,31,39,0,0,0,0,
+6434,Landkreis,Hochtaunuskreis,DE718,https://buergerinfo.hochtaunuskreis.de/info.asp,8,24,13,10,8,2,5,1,0,0,71,481.84,239488,497,17.3,90752,4.6,3,3,0,0,30,37,0,0,0,0,
+6435,Landkreis,Main-Kinzig-Kreis,DE719,https://sessionnet.krz.de/main-kinzig/bi/info.asp,11,24,28,8,4,3,3,0,6,0,87,1397.32,430838,308,16.8,87086,4.9,17,17,0,0,26,46,0,0,0,0,
+6436,Landkreis,Main-Taunus-Kreis,DE71A,https://sessionnet.krz.de/mtk/bi/info.asp,10,27,17,11,8,3,5,0,0,0,81,222.53,242420,1089,17.5,106638,4.4,4,4,0,0,31,39,0,0,0,0,
+6437,Landkreis,Odenwaldkreis,DE71B,https://sd.odenwaldkreis.de/,4,11,18,4,3,2,0,0,7,0,49,623.97,97577,156,14.7,66995,4.6,1,0,1,0,28,0,0,0,0,0,
+6438,Landkreis,Offenbach,DE71C,https://sessionnet.krz.de/kreis_offenbach/bi/si0046.asp,11,28,21,10,7,2,4,0,4,0,87,356.24,362137,1017,20.2,89795,5.2,1,1,0,0,29,8,0,0,0,0,
+6439,Landkreis,Rheingau-Taunus-Kreis,DE71D,https://www.rheingau-taunus.de/ris/,7,21,15,7,4,2,4,0,1,0,61,811.4,189614,234,12.7,73241,4.4,9,7,2,0,28,28,0,0,0,0,
+6440,Landkreis,Wetteraukreis,DE71E,https://sessionnet.krz.de/wetteraukreis/bi/info.asp,10,25,23,7,4,3,6,2,1,0,81,1100.66,317298,288,14,76373,4.3,0,0,0,0,31,117,0,0,0,0,
+6531,Landkreis,Gießen,DE721,https://www.lkgi.de/parlamentsinformationssystem/,12,19,23,9,4,4,9,0,1,0,81,854.56,278664,326,13.6,74266,5.6,2,2,0,0,27,34,0,0,0,0,
+6532,Landkreis,Lahn-Dill-Kreis,DE722,https://rim.ekom21.de/lahn-dill-kreis/,8,25,24,7,4,3,8,2,0,0,81,1066.3,257289,241,11.7,71606,5.1,34,30,4,0,35,49,0,0,0,0,
+6533,Landkreis,Limburg-Weilburg,DE723,https://rim.ekom21.de/limburg-weilburg/,7,28,20,5,4,2,5,0,0,0,71,738.44,174884,237,12.5,71850,4.5,1,1,0,0,26,4,0,0,0,0,
+6534,Landkreis,Marburg-Biedenkopf,DE724,https://marburg-biedenkopf.ratsinfomanagement.net/termine,8,21,28,8,2,5,7,0,2,0,81,1262.37,249684,198,12.3,81191,4,11,9,2,0,33,19,0,0,0,0,
+6535,Landkreis,Vogelsbergkreis,DE725,https://vogelsbergkreis.gremien.info/,3,22,19,5,3,2,6,0,0,0,60,1458.91,106833,73,7.6,69303,3.7,6,6,0,0,30,32,0,0,0,0,
+6611,Kreisfreie Stadt,"Kassel, documenta-Stadt",DE731,https://ratsinfo.kassel.de/sdnet4/,4,14,18,20,4,7,2,0,2,0,71,106.79,204202,1912,20,72133,8.1,3,3,0,0,49,79,0,0,0,0,
+6631,Landkreis,Fulda,DE732,https://landkreis-fulda.ratsinfomanagement.net/startseite,11,38,12,6,4,3,0,0,5,2,81,1380.41,227456,165,10.2,69652,3.1,52,52,0,0,23,63,0,0,0,0,
+6632,Landkreis,Hersfeld-Rotenburg,DE733,https://rim.ekom21.de/hersfeld-rotenburg/startseite,8,18,21,4,3,2,4,0,1,0,61,1097.75,121566,111,10.6,77393,3.7,1,1,0,0,29,19,0,0,0,0,
+6633,Landkreis,Kassel,DE734,https://gremien.landkreiskassel.de/bi/info.asp,8,19,36,7,4,3,4,0,0,0,81,1293.31,240718,186,NA,NA,NA,1,1,0,0,31,25,0,0,0,0,Es wird bei Ablehnung eines Antrag keine Aussage zu der Anzahl der Stimmen getroffen
+6634,Landkreis,Schwalm-Eder-Kreis,DE735,https://sessionnet.krz.de/schwalm-eder-kreis/bi/info.asp,7,17,28,5,4,2,7,0,1,0,71,1539.01,182595,119,8.3,76314,3.7,0,0,0,0,22,4,0,0,0,0,
+6635,Landkreis,Waldeck-Frankenberg,DE736,https://rim.ekom21.de/waldeck-frankenberg/,7,20,22,6,5,2,8,0,1,0,71,1848.7,159154,86,9.4,74915,3.7,1,1,0,0,29,11,0,0,0,0,
+6636,Landkreis,Werra-Meißner-Kreis,DE737,https://sessionnet.krz.de/werra-meissner-kreis/bi/info.asp,3,17,20,8,3,3,5,0,0,1,60,1024.83,100208,98,8,62967,5.3,0,0,0,0,27,0,0,0,0,0,
+7111,Kreisfreie Stadt,"Koblenz, kreisfreie Stadt",DEB11,https://buergerinfo.koblenz.de/info.php,4,11,12,14,2,1,6,0,5,1,56,105.25,115268,1095,15,80234,6.4,1,1,0,0,57,16,0,0,0,0,
+7131,Landkreis,Ahrweiler,DEB12,https://session.kreis-ahrweiler.de/biaw/info.php,3,17,7,9,3,1,6,0,0,0,46,787.03,128161,163,10.1,69077,4.2,2,2,0,0,21,2,0,0,0,0,
+7132,Landkreis,Altenkirchen (Westerwald),DEB13,https://altenkirchen.gremien.info/,2,16,11,6,3,2,4,0,0,0,44,642.38,131467,205,8.2,67109,5,0,0,0,0,22,0,0,0,0,0,
+7133,Landkreis,Bad Kreuznach,DEB14,https://www.bad-kreuznach.sitzung-online.de/bi/allris.net.asp,5,16,12,7,3,2,2,0,3,0,50,863.89,161307,187,11.4,67967,6.1,2,2,0,0,45,3,0,0,0,0,
+7134,Landkreis,Birkenfeld,DEB15,https://nationalparklandkreis.gremien.info/,0,12,12,5,4,2,0,0,7,0,42,776.83,81760,105,10.6,64405,5.9,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine AfD über gesamten Zeitraum hinweg.
+7135,Landkreis,Cochem-Zell,DEB1C,https://sessionnet.krz.de/cochem-zell/bi/info.asp,3,16,9,4,2,0,4,0,0,0,38,692.43,62666,91,8.3,67818,3.8,2,2,0,0,26,2,0,0,0,0,
+7137,Landkreis,Mayen-Koblenz,DEB17,https://ris.kvmyk.de/bi/info.php,4,17,11,8,3,1,5,0,1,0,50,817.73,218210,267,9,72120,3.4,1,1,0,0,28,3,0,0,0,0,
+7138,Landkreis,Neuwied,DEB18,https://sessionnet.krz.de/kreis_neuwied/bi/info.asp,4,17,12,8,3,2,4,0,0,0,50,627.06,187440,299,10.6,72705,5.1,0,0,0,0,22,2,0,0,0,0,
+7140,Landkreis,Rhein-Hunsrück-Kreis,DEB1D,https://rheinhunsrueck.gremien.info/,3,15,9,5,4,1,5,0,0,0,42,991.06,105566,107,8.8,70232,3.8,1,1,0,0,24,7,0,0,0,0,
+7141,Landkreis,Rhein-Lahn-Kreis,DEB1A,https://rheinlahnkreis.gremien.info/,3,12,12,6,2,1,2,0,4,0,42,782.24,124381,159,9.9,73490,3.3,0,0,0,0,21,2,0,0,0,0,
+7143,Landkreis,Westerwaldkreis,DEB1B,https://sessionnet.owl-it.de/westerwaldkreis/bi/info.asp,4,18,10,7,3,2,6,0,0,0,50,989.04,206282,209,9.4,76216,3.1,0,0,0,0,22,2,0,0,0,0,
+7211,Kreisfreie Stadt,"Trier, kreisfreie Stadt",DEB21,https://info.trier.de/bi/allris.net.asp,4,12,12,14,3,4,0,0,5,0,54,117.06,112195,958,15.9,64755,6,12,12,0,0,58,36,0,0,0,0,
+7231,Landkreis,Bernkastel-Wittlich,DEB22,https://bernkastel-wittlich.gremien.info/,3,15,8,6,4,1,4,0,1,0,42,1167.93,115099,99,11.4,65793,3.4,0,0,0,0,18,2,0,0,0,0,
+7232,Landkreis,Eifelkreis Bitburg-Prüm,DEB23,https://www.bitburg-pruem.sitzung-online.de/bi/allris.net.asp,2,15,9,6,3,1,6,0,0,0,42,1626.95,103642,64,15.4,75339,2.8,0,0,0,0,35,2,0,0,0,0,
+7233,Landkreis,Vulkaneifel,DEB24,https://ratsinfo.vulkaneifel.de/,1,16,7,5,3,1,4,0,1,0,38,911.64,61769,68,8.5,67148,3.6,0,0,0,0,20,0,0,0,0,0,
+7235,Landkreis,Trier-Saarburg,DEB25,https://buergerinfo.trier-saarburg.de/info.php,3,17,10,8,2,2,7,0,1,0,50,1102.25,153860,140,11.9,64713,3,0,0,0,0,30,0,0,0,0,0,
+7311,Kreisfreie Stadt,"Frankenthal (Pfalz), kreisfreie Stadt",DEB31,https://bis.frankenthal.de/bi/info.asp,3,15,9,7,2,2,3,0,0,2,43,43.88,49051,1118,19.6,74954,8.2,1,1,0,0,54,2,0,0,0,0,
+7312,Kreisfreie Stadt,"Kaiserslautern, kreisfreie Stadt",DEB32,https://ris.kaiserslautern.de/buergerinfo/info.asp,6,13,15,11,3,3,4,0,1,0,56,139.7,101228,725,19,70040,8.9,1,1,0,0,70,3,0,0,0,0,
+7313,Kreisfreie Stadt,"Landau in der Pfalz, kreisfreie Stadt",DEB33,https://info.landau.de/0001_bi/info.asp,1,11,9,11,2,2,5,0,3,0,44,82.94,47610,574,11.1,63318,5.6,3,3,0,0,47,4,0,0,0,0,
+7314,Kreisfreie Stadt,"Ludwigshafen am Rhein, kreisfreie Stadt",DEB34,https://www.ludwigshafen.de/ratsinformationssystem/bi/info.php,5,15,17,5,3,3,3,0,8,1,60,77.43,174265,2251,28.3,104488,9.5,0,0,0,0,41,2,0,0,0,0,"kein Protokoll, nur Analyse von Beschlussantraegen"
+7315,Kreisfreie Stadt,"Mainz, kreisfreie Stadt",DEB35,https://bi.mainz.de/info.php,3,14,12,19,4,4,1,0,3,0,60,97.73,220552,2257,18.4,141590,5.8,0,0,0,0,37,1,0,0,0,0,fast immer keine genauen Abstimmungsergebnisse (bei 19 Anträgen)
+7316,Kreisfreie Stadt,"Neustadt an der Weinstraße, kreisfreie Stadt",DEB36,https://buergerinfo.neustadt.eu/info.asp,0,11,7,8,3,1,14,0,0,0,44,117.09,53981,461,11.5,63965,6,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+7317,Kreisfreie Stadt,"Pirmasens, kreisfreie Stadt",DEB37,https://rip.stadt-pirmasens.de/bi/info.asp,6,16,11,3,2,2,3,0,1,0,44,61.35,40682,663,13.2,60570,11.4,0,0,0,0,44,3,0,0,0,0,
+7318,Kreisfreie Stadt,"Speyer, kreisfreie Stadt",DEB38,https://buergerinfo2.speyer.de/info.php,3,9,10,8,2,3,0,0,4,1,40,42.71,51368,1203,16.3,69414,6.4,2,2,0,0,51,4,0,0,0,0,
+7319,Kreisfreie Stadt,"Worms, kreisfreie Stadt",DEB39,https://worms.gremien.info/,4,15,14,6,2,1,0,0,10,1,53,108.73,84646,778,19.9,77303,8.2,2,2,0,0,41,14,0,0,0,0,
+7320,Kreisfreie Stadt,"Zweibrücken, kreisfreie Stadt",DEB3A,https://buergerinfo.zweibruecken.de/info.php,4,13,11,6,1,0,4,0,3,0,42,70.64,34534,489,11.6,79991,6.5,4,4,0,0,55,6,0,0,0,0,
+7331,Landkreis,Alzey-Worms,DEB3B,https://alzey-worms.gremien.info/,4,12,13,7,3,1,4,0,1,0,45,588.07,132536,225,10.2,73468,4.4,0,0,0,0,24,1,0,0,0,0,
+7332,Landkreis,Bad Dürkheim,DEB3C,https://sessionnet.krz.de/bad-duerkheim/bi/info.asp,5,14,10,7,3,1,6,0,0,0,46,594.64,134546,226,8.8,64205,4.3,0,0,0,0,21,2,0,0,0,0,
+7333,Landkreis,Donnersbergkreis,DEB3D,https://www.donnersberg.de/donnersbergkreis/Politik/Kreistag%20&%20Aussch%C3%BCsse/Kreistag/Niederschriften%202019-2024/,3,9,11,5,2,1,0,0,1,0,32,645.41,76208,118,8.4,70929,5.5,1,1,0,0,26,2,0,0,0,0,
+7334,Landkreis,Germersheim,DEB3E,https://www.germersheim-kreis.sitzung-online.org/bi/si010_e.asp,6,15,9,6,3,1,5,0,1,0,46,463.32,130793,282,13,81186,4.1,0,0,0,0,19,18,0,0,0,0,
+7335,Landkreis,Kaiserslautern,DEB3F,https://sessionnet.krz.de/kaiserslautern-kreis/bi/info.asp,4,14,10,4,2,2,6,0,0,0,42,640,108216,169,NA,NA,NA,0,0,0,0,30,1,0,0,0,0,
+7336,Landkreis,Kusel,DEB3G,https://sitzungsmanagement.landkreis-kusel.de/fr_index.htm,5,10,11,4,2,1,5,0,0,0,38,573.61,71462,125,7,69387,4.6,0,0,0,0,24,0,0,0,0,0,
+7337,Landkreis,Südliche Weinstraße,DEB3H,https://sessionnet.krz.de/suedliche-weinstrasse/bi/info.asp,4,13,9,7,2,1,6,0,0,0,42,639.93,112631,176,8.2,69531,4.2,1,1,0,0,20,2,0,0,0,0,
+7338,Landkreis,Rhein-Pfalz-Kreis,DEB3I,https://rhein-pfalz-kreis.gremien.info/index.php,6,16,11,9,3,1,4,0,0,0,50,304.99,155921,511,10.8,71960,4.2,0,0,0,0,19,1,0,0,0,0,
+7339,Landkreis,Mainz-Bingen,DEB3J,https://www.landkreis-mainz-bingen.sitzung-online.de/bi/allris.net.asp,4,15,11,10,3,2,4,0,1,0,50,605.33,214948,355,10.9,107695,4,3,3,0,0,38,13,0,0,0,0,
+7340,Landkreis,Südwestpfalz,DEB3K,https://lksuedwestpfalz.gremien.info/index.php,5,14,10,4,3,0,5,0,0,1,42,953.52,94899,100,4.8,70930,4,0,0,0,0,26,0,0,0,0,0,
+8111,Stadtkreis,"Stuttgart, Stadtkreis",DE111,https://www.domino1.stuttgart.de/web/ksd/KSDRedSystem.nsf/,4,12,7,14,4,6,4,0,3,1,55,207.33,632865,3052,25.3,102788,5.1,0,0,0,0,101,0,0,0,0,0,"kein Protokoll, nur Analyse von Beschlussantraegen"
+8115,Landkreis,Böblingen,DE112,https://service.lrabb.de/bi/info.asp,5,17,11,16,6,3,25,0,1,0,84,617.77,398528,645,19.1,116108,3.6,0,0,0,0,30,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8116,Landkreis,Esslingen,DE113,https://eslra-sitzungsdienst.komm.one/bi/info.asp,6,19,15,19,6,4,28,1,0,0,98,641.28,540226,842,18,85507,3.9,0,0,0,0,20,2,0,0,0,0,keine genauen Abstimmungsergebnisse
+8117,Landkreis,Göppingen,DE114,https://buergerinfo.landkreis-goeppingen.de/info.asp,6,17,11,13,5,1,14,0,0,0,67,642.34,261857,408,17.8,72578,4.4,1,1,0,0,32,1,0,0,0,0,
+8118,Landkreis,Ludwigsburg,DE115,https://sbi.landkreis-ludwigsburg.de/info.php,3,26,16,21,8,4,27,0,0,0,105,686.77,551051,802,18.5,92450,3.4,0,0,0,0,28,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8119,Landkreis,Rems-Murr-Kreis,DE116,https://lrarmk-sitzungsdienst.komm.one/bi/info.asp,8,21,13,16,9,2,18,0,2,2,91,858.08,432397,504,16.6,78215,4.1,0,0,0,0,25,0,0,0,0,0,
+8121,Stadtkreis,"Heilbronn, Stadtkreis",DE117,https://heilbronn-sitzungsdienst.komm.one/bi/info.asp,3,9,8,8,4,2,2,0,4,0,40,99.89,128334,1285,27.1,77399,5.6,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten.
+8125,Landkreis,Heilbronn,DE118,https://landratsamt-heilbronn.ratsinfomanagement.net/,6,19,12,11,5,2,18,0,3,0,76,1099.91,353283,321,NA,NA,NA,0,0,0,0,23,0,0,0,0,0,
+8126,Landkreis,Hohenlohekreis,DE119,https://gremieninfo-hohenlohekreis.komm.one/bi/info.asp,3,13,6,7,4,1,9,0,0,0,43,776.75,115063,148,12.2,84890,3,1,1,0,0,31,7,0,0,0,0,keine genauen Abstimmungsergebnisse
+8127,Landkreis,Schwäbisch Hall,DE11A,https://lrasha-sitzungsdienst.komm.one/bi/info.asp,3,12,8,10,5,1,17,0,2,0,58,1484.08,202834,137,12.9,83155,3.2,0,0,0,0,26,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8128,Landkreis,Main-Tauber-Kreis,DE11B,https://sessionnet.main-tauber-kreis.de/bi/info.asp,3,17,9,5,2,1,10,0,1,0,48,1304.12,134745,103,10.4,72111,3.2,0,0,0,0,31,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8135,Landkreis,Heidenheim,DE11C,https://info.landkreis-heidenheim.de/bi/info.asp,2,12,9,9,1,1,11,0,1,0,46,627.14,135035,215,16.7,77046,4.4,0,0,0,0,37,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8136,Landkreis,Ostalbkreis,DE11D,https://web.ostalbkreis.de/bi/allris.net.asp,5,26,12,13,2,3,12,0,0,0,73,1511.39,319631,211,11.7,87467,3.4,2,2,0,0,44,2,0,0,0,0,keine genauen Abstimmungsergebnisse
+8211,Stadtkreis,"Baden-Baden, Stadtkreis",DE121,https://baden-baden.gremien.info/,3,10,5,11,3,0,7,0,0,0,39,140.19,57025,407,21,73779,5.5,0,0,0,0,58,1,0,0,0,0,
+8212,Stadtkreis,"Karlsruhe, Stadtkreis",DE122,https://sitzungskalender.karlsruhe.de/db/ratsinformation/start,2,9,7,15,4,3,3,0,4,1,48,173.42,308707,1780,18.9,92940,4.8,7,7,0,0,65,97,0,0,0,0,
+8215,Landkreis,Karlsruhe,DE123,https://www.landkreis-karlsruhe.de/Aktuelles-Landkreis/Politik/Kreistag/Sitzungsarchiv/,5,26,15,14,5,2,16,0,5,0,88,1084.98,454613,419,NA,NA,NA,0,0,0,0,24,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8216,Landkreis,Rastatt,DE124,https://landkreis-rastatt.ris-portal.de/,5,18,10,10,3,1,13,0,1,0,61,738.43,234981,318,15.2,87271,3.7,0,0,0,0,29,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8221,Stadtkreis,"Heidelberg, Stadtkreis",DE125,https://www.gemeinderat.heidelberg.de/info.asp,2,7,7,16,3,3,1,0,9,0,48,108.83,162273,1491,19.1,75607,5,0,0,0,0,45,3,0,0,0,0,keine Protokolle
+8222,Stadtkreis,"Mannheim, Stadtkreis",DE126,https://buergerinfo.mannheim.de/buergerinfo/info.asp,4,8,11,11,4,0,4,0,5,1,48,144.97,315554,2177,24.6,89277,7.2,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten.
+8225,Landkreis,Neckar-Odenwald-Kreis,DE127,https://sessionnet.krz.de/neckar-odenwald-kreis/bi/info.asp,3,17,10,7,1,0,11,0,1,0,50,1125.95,145493,129,10.9,70900,3.6,0,0,0,0,28,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8226,Landkreis,Rhein-Neckar-Kreis,DE128,https://ratsinformation.rhein-neckar-kreis.de/,8,27,17,20,7,4,18,0,0,0,101,1061.55,555352,523,13.2,88900,4.2,0,0,0,0,19,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8231,Stadtkreis,"Pforzheim, Stadtkreis",DE129,https://buergerinfo.pforzheim.de/allris.net.asp,6,8,3,3,4,0,5,0,7,0,36,97.99,127849,1305,28.2,73264,7,2,2,0,0,61,7,0,0,0,0,
+8235,Landkreis,Calw,DE12A,https://sessionnet.krz.de/kreis-calw/bi/info.asp,4,15,7,7,3,0,12,0,0,0,48,797.29,162853,204,16.1,73246,3.7,0,0,0,0,17,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8236,Landkreis,Enzkreis,DE12B,https://enzkreis.ratsinfomanagement.net/startseite,5,12,9,10,5,0,16,0,1,0,58,573.6,202536,353,13.7,73977,3.2,0,0,0,0,25,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8237,Landkreis,Freudenstadt,DE12C,https://kreis-fds-sitzungsdienst.komm.one/bi/info.asp,3,11,4,5,5,0,10,0,3,0,41,870.4,121164,139,13,77852,3.5,3,3,0,0,30,6,0,0,0,0,keine genauen Abstimmungsergebnisse
+8311,Stadtkreis,"Freiburg im Breisgau, Stadtkreis",DE131,https://ris.freiburg.de/,2,6,8,15,7,0,3,0,13,0,54,153.04,236140,1543,17.2,75830,5.4,3,3,0,0,63,29,0,0,0,0,
+8315,Landkreis,Breisgau-Hochschwarzwald,DE132,https://kreistag.lkbh.net/,3,20,10,14,4,0,15,0,0,0,66,1378.32,269948,196,12.5,70503,3.1,0,0,0,0,22,0,0,0,0,0,
+8316,Landkreis,Emmendingen,DE133,https://lraem-sitzungsdienst.komm.one/bi/info.asp,2,14,9,10,4,0,11,0,3,0,53,679.8,170996,252,11.5,76593,3,0,0,0,0,29,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8317,Landkreis,Ortenaukreis,DE134,https://kreistag.ortenaukreis.de/,5,29,12,12,4,0,19,0,2,0,83,1860.29,441885,238,13,75620,3.5,0,0,0,0,23,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8325,Landkreis,Rottweil,DE135,https://landkreis-rottweil.ratsinfomanagement.net/startseite,3,13,6,5,4,0,12,0,4,0,47,769.42,142593,185,12.6,82189,2.9,1,1,0,0,34,1,0,0,0,0,keine genauen Abstimmungsergebnisse
+8326,Landkreis,Schwarzwald-Baar-Kreis,DE136,https://session.lrasbk.de/bi/info.php,3,22,8,10,5,0,10,0,0,0,58,1025.34,217181,212,16.8,73066,4,0,0,0,0,32,1,0,0,0,0,keine genauen Abstimmungsergebnisse
+8327,Landkreis,Tuttlingen,DE137,https://lttweb03.landkreis-tuttlingen.de:8443/startseite,2,18,5,8,5,0,9,0,1,0,48,734.38,144891,197,18.1,79834,3.7,0,0,0,0,33,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8335,Landkreis,Konstanz,DE138,https://kreistag.lrakn.de/buergerinfo/info.asp,2,20,10,18,6,3,14,0,0,0,73,817.98,292568,358,16,75064,4,0,0,0,0,29,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8336,Landkreis,Lörrach,DE139,https://session.loerrach-landkreis.de/data/buergerinfo/info.asp,4,16,11,11,4,1,13,0,0,0,60,806.66,233027,289,16.3,75768,4.7,0,0,0,0,35,2,0,0,0,0,
+8337,Landkreis,Waldshut,DE13A,https://kreistag.landkreis-waldshut.de/info.asp,2,18,7,8,4,0,11,0,0,0,50,1131.15,173460,153,16.7,72462,3.9,0,0,0,0,31,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8415,Landkreis,Reutlingen,DE141,https://kreistag.kreis-reutlingen.de/bi/info.php,4,15,10,12,4,2,19,0,1,0,67,1092.48,291696,267,16.4,78589,4.1,0,0,0,0,33,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8416,Landkreis,Tübingen,DE142,https://www.kreis-tuebingen.de/landkreis_+landratsamt/kreistag/sitzungen,2,12,8,18,4,0,16,0,7,0,67,519.12,232803,448,13.9,70532,3.1,0,0,0,0,32,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8417,Landkreis,Zollernalbkreis,DE143,https://service.zollernalbkreis.de/bi/info.asp,4,19,6,7,5,1,13,0,0,0,55,917.58,193235,211,13.9,76479,3.8,0,0,0,0,28,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8421,Stadtkreis,"Ulm, Stadtkreis",DE144,https://buergerinfo.ulm.de/info.php,1,8,7,11,3,0,10,0,0,0,40,118.68,128928,1086,21,81122,4,0,0,0,0,43,0,0,0,0,0,"Keine Protokolle, nur Analyse von Beschlussanträgen"
+8425,Landkreis,Alb-Donau-Kreis,DE145,https://service.alb-donau-kreis.de/bi/si0040.php,1,24,7,11,2,0,17,0,0,0,62,1358.55,202476,149,14.3,83278,2.7,0,0,0,0,30,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8426,Landkreis,Biberach,DE146,https://service.biberach.de/buergerinfo/info.php,0,19,4,9,2,0,14,0,9,0,57,1409.52,206513,147,11.4,100106,2.5,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+8435,Landkreis,Bodenseekreis,DE147,https://buergerinfo.bodenseekreis.de/info.php,3,15,6,13,3,2,12,0,2,0,56,664.77,222712,335,14.3,90432,2.8,0,0,0,0,31,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+8436,Landkreis,Ravensburg,DE148,https://service.landkreis-ravensburg.de/bi/si0040.php,0,24,6,15,4,1,17,0,5,0,72,1632.08,290911,178,12,85432,2.9,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+8437,Landkreis,Sigmaringen,DE149,https://landkreis-sigmaringen.ratsinfomanagement.net/startseite,2,19,4,8,1,0,9,0,0,0,43,1204.23,134045,111,11.7,75916,3.2,0,0,0,0,34,0,0,0,0,0,keine genauen Abstimmungsergebnisse
+9161,Kreisfreie Stadt,Ingolstadt,DE211,https://www4.ingolstadt.de/sessionnet/info.php,4,13,9,8,2,2,4,0,8,0,50,133.35,141029,1058,20.1,144308,3.7,0,0,0,0,47,14,0,0,0,0,Teilweise keine Protokolle
+9162,Kreisfreie Stadt,"München, Landeshauptstadt",DE212,https://risi.muenchen.de/risi/sitzung/kalender?1,3,22,19,24,4,4,0,0,4,0,80,310.7,1512491,4868,26.6,112284,4.8,1,1,0,0,47,43,0,0,0,0,AfD erst ab Mai 2020 im Stadtrat.
+9163,Kreisfreie Stadt,Rosenheim,DE213,https://www.rosenheim-allris.sitzung-online.de/allrisbi/custom/startseite,3,16,6,10,1,0,5,1,1,0,43,37.22,64403,1730,22.5,69983,4.6,0,0,0,0,45,0,0,0,0,0,AfD erst ab Mai 2020 im Stadtrat.
+9171,Landkreis,Altötting,DE214,https://buergerinfo.lra-aoe.de/info.asp,3,24,9,8,2,0,8,0,6,0,60,569.28,113798,200,12.7,105130,3.2,NA,NA,NA,NA,23,46,0,0,1,0,keine genauen Abstimmungsergebnisse
+9172,Landkreis,Berchtesgadener Land,DE215,https://buergerinfo-bgl.digitalfabrix.de/info.asp,3,22,5,12,1,0,13,0,4,0,60,839.82,107667,128,17.1,70266,4,0,0,0,0,25,0,0,0,0,0,nur Beschlüsse veröffentlicht
+9173,Landkreis,Bad Tölz-Wolfratshausen,DE216,https://www.sitzungsdienst-lrabadtoelz.de/bi/allris.net.asp,2,21,4,13,1,1,14,0,4,0,60,1110.67,129511,117,13,72692,2.6,0,0,0,0,18,0,0,0,0,0,nur Beschlüsse veröffentlicht
+9174,Landkreis,Dachau,DE217,https://sessionnet.landratsamt-dachau.de/bi/info.asp,4,27,8,12,1,1,8,0,6,0,67,579.16,156982,271,16.5,75559,2.6,0,0,0,0,25,2,0,0,0,0,
+9175,Landkreis,Ebersberg,DE218,https://buergerinfo.lra-ebe.de/info.asp,3,24,6,15,2,1,6,0,3,0,60,549.39,146830,267,14.7,85544,2.3,0,0,0,0,27,7,0,0,0,0,
+9176,Landkreis,Eichstätt,DE219,https://buergerinfo-lra-eichstaett.digitalfabrix.de/info.asp,0,24,8,6,1,1,11,0,9,0,60,1213.85,135591,112,9.4,87889,1.9,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+9177,Landkreis,Erding,DE21A,https://bi.landkreis-erding.de/info.asp,5,24,5,10,1,1,11,0,3,0,60,870.74,141680,163,12.7,76425,2.4,0,0,0,0,20,1,0,0,0,0,
+9178,Landkreis,Freising,DE21B,https://www.kreis-freising.de/landratsamt/amtsleitung-politik/sitzungsplan.html,4,18,5,15,2,1,14,0,10,0,69,799.85,184433,231,18.7,79945,2.7,0,0,0,0,22,0,0,0,0,0,"Keine Protokolle, nur Analyse von Beschlussanträgen"
+9179,Landkreis,Fürstenfeldbruck,DE21C,https://buergerinfo-lra-ffb.digitalfabrix.de/info.asp,3,26,7,17,2,1,8,0,6,0,70,434.8,221612,510,15.8,81057,3.2,0,0,0,0,19,0,0,0,0,0,
+9180,Landkreis,Garmisch-Partenkirchen,DE21D,https://buergerinfo.landkreis-gap.de/info.php,1,20,4,9,1,1,14,0,10,0,60,1012.17,88840,88,13.5,62400,3.3,0,0,0,0,26,0,0,0,0,0,
+9181,Landkreis,Landsberg am Lech,DE21E,https://buergerinfo-kreis-ll.digitalfabrix.de/info.asp,1,23,5,15,1,0,5,0,10,0,60,804.36,123032,153,9.3,81508,2.8,0,0,0,0,21,0,0,0,0,0,"Keine Protokolle, nur Analyse von Beschlussanträgen"
+9182,Landkreis,Miesbach,DE21F,https://www.sitzungsdienst-lra-miesbach.de/bi/allris.net.asp,0,22,5,11,2,0,5,0,15,0,60,866.21,101346,117,12.6,73097,2.8,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+9183,Landkreis,Mühldorf a.Inn,DE21G,https://allris.lra-mue.de/bi/allris.net.asp,5,23,5,8,2,1,0,0,16,0,60,805.33,119878,149,13.3,74641,3.5,0,0,0,0,24,5,0,0,0,0,nur Beschlüsse veröffentlicht
+9184,Landkreis,München,DE21H,https://muenchen.gremien.info/,3,26,9,19,3,1,7,0,2,0,70,664.25,355890,536,NA,NA,NA,2,2,0,0,23,12,0,0,0,0,
+9185,Landkreis,Neuburg-Schrobenhausen,DE21I,https://neuburgschrobenhausen.gremien.info/index.php,0,21,6,8,1,1,20,0,3,0,60,739.71,99957,135,11.2,87173,2.3,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+9186,Landkreis,Pfaffenhofen a.d.Ilm,DE21J,https://buergerinfo.landkreis-pfaffenhofen.de/info.asp,4,19,8,7,2,0,12,0,8,0,60,761.05,132082,174,12.2,89605,2.3,1,1,0,0,31,3,0,0,0,0,
+9187,Landkreis,Rosenheim,DE21K,https://buergerinfo-lra-rosenheim.digitalfabrix.de/info.asp,4,26,5,14,1,1,8,0,11,0,70,1439.44,266945,185,NA,NA,NA,1,1,0,0,24,21,0,0,0,0,
+9188,Landkreis,Starnberg,DE21L,https://sitzungsdienst.lk-starnberg.de/bi/info.asp,1,20,5,18,5,1,8,0,2,0,60,487.71,138785,285,14.7,91614,3.3,0,0,0,0,27,0,0,0,0,0,nur Beschlüsse veröffentlicht
+9189,Landkreis,Traunstein,DE21M,https://www.landkreis-traunstein.sitzung-online.de/integration/si010,3,27,7,13,1,1,9,0,9,0,70,1533.76,180779,118,10.5,83148,2.9,0,0,0,0,17,0,0,0,0,0,
+9190,Landkreis,Weilheim-Schongau,DE21N,https://buergerinfo-lrawmsog.digitalfabrix.de/info.asp,3,20,7,10,1,1,4,0,12,2,60,966.28,138208,143,9.7,82958,2.7,0,0,0,0,31,3,0,0,0,0,nur Beschlüsse veröffentlicht
+9261,Kreisfreie Stadt,Landshut,DE221,https://ris.landshut.de/buergerinfo/info.php,3,14,6,11,2,1,5,0,6,0,48,65.83,75457,1146,21,79546,4.7,0,0,0,0,51,0,0,0,0,0,"AfD erst ab Mai 2020 im Stadtrat, keine Protokolle vorhanden."
+9262,Kreisfreie Stadt,Passau,DE222,https://ratsinfo.passau.de/,0,9,10,7,2,0,3,0,9,0,40,69.56,53907,775,18.2,68537,5.4,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD-Fraktion über gesamten Zeitraum hinweg.
+9263,Kreisfreie Stadt,Straubing,DE223,https://ratsinfo.straubing.de/bi/info.asp,1,18,5,5,1,1,5,0,3,1,40,67.59,49164,727,18.9,65460,5.6,0,0,0,0,50,0,0,0,0,0,AfD erst ab Mai 2020 im Stadtrat.
+9271,Landkreis,Deggendorf,DE224,https://www.landkreis-deggendorf.de/landkreis/kreistag/sitzungsbeschluesse/kreistag/,5,25,6,5,1,0,12,0,6,0,60,861.17,122121,142,10.8,75935,3.1,0,0,0,0,9,0,0,0,0,0,nur Beschlüsse veröffentlicht
+9272,Landkreis,Freyung-Grafenau,DE225,https://buergerinfo.landkreis-frg.de/info.asp,4,21,6,4,2,0,13,0,10,0,60,983.85,79286,81,5.8,68924,3.1,0,0,0,0,18,1,0,0,0,0,
+9273,Landkreis,Kelheim,DE226,https://bi.landkreis-kelheim.de/si0046.asp?smcmode=32832,3,20,7,6,2,0,9,0,13,0,60,1065.13,125701,118,13.3,78386,3.1,0,0,0,0,20,0,0,0,0,0,
+9274,Landkreis,Landshut,DE227,https://buergerinfo.landkreis-landshut.de/info.asp,5,17,6,7,3,1,20,0,11,0,70,1347.55,164773,122,NA,NA,NA,0,0,0,0,29,7,0,0,0,0,"Keine Protokolle, nur Analyse von Beschlussanträgen"
+9275,Landkreis,Passau,DE228,https://www.landkreis-passau.de/landkreis-verwaltung-politik/kreistag-buergerinformation/sitzungskalender/,6,26,7,6,1,0,9,0,15,0,70,1530.09,196963,129,NA,NA,NA,1,1,0,0,22,6,0,0,0,0,"Keine Protokolle, nur Analyse von Beschlussanträgen"
+9276,Landkreis,Regen,DE229,https://service.landkreis-regen.de/bi/info.asp,6,20,10,5,2,0,7,0,10,0,60,974.78,78035,80,6.9,68704,3.7,0,0,0,0,21,4,0,0,0,0,
+9277,Landkreis,Rottal-Inn,DE22A,https://ratsinfo.rottal-inn.de/info.asp,3,24,6,7,1,0,8,0,11,0,60,1281.2,124436,97,11.4,75532,3.6,NA,NA,NA,NA,16,2,0,0,1,0,keine genauen Abstimmungsergebnisse
+9278,Landkreis,Straubing-Bogen,DE22B,https://buergerinfo.straubing-bogen.de/info.asp,3,26,5,4,3,0,13,0,6,0,60,1201.62,103806,86,8.2,77500,2.9,0,0,0,0,26,0,0,0,0,0,nur Beschlüsse veröffentlicht
+9279,Landkreis,Dingolfing-Landau,DE22C,NA,4,19,7,4,2,0,10,0,14,0,60,877.58,100306,114,13.3,104385,2.9,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten.
+9361,Kreisfreie Stadt,Amberg,DE231,https://www.amberg.de/buergerinfo/info.asp,0,17,5,5,1,0,3,0,9,0,40,50.13,42534,848,12.6,73043,4.7,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+9362,Kreisfreie Stadt,Regensburg,DE232,https://srv19.regensburg.de/bi/si010.asp,2,13,6,11,2,1,3,0,12,0,50,80.86,157443,1947,17.8,86595,4.3,0,0,0,0,44,1,0,0,0,0,AfD erst ab Mai 2020 im Stadtrat.
+9363,Kreisfreie Stadt,Weiden i.d.OPf.,DE233,https://ris.weiden.de/buergerinfo/info.asp,2,13,10,3,0,0,0,0,10,0,38,70.57,43052,610,14.1,62660,5.1,1,1,0,0,28,2,0,0,0,0,Sitzungen erst ab dem Jahr 2022 online
+9371,Landkreis,Amberg-Sulzbach,DE234,https://www.kreis-as.de/Verwaltung-Politik/Politik/Kreistag/Dokumente/,0,23,10,6,3,1,10,0,7,0,60,1255.86,104436,83,7,78009,2.7,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+9372,Landkreis,Cham,DE235,https://buergerinfo.landkreis-cham.de/info.asp,3,18,4,3,1,1,7,0,23,0,60,1526.82,130193,85,6.6,67536,2.9,0,0,0,0,17,0,0,0,0,0,Teilweise keine Protokolle
+9373,Landkreis,Neumarkt i.d.OPf.,DE236,https://www.landkreis-neumarkt.de/landkreis-neumarkt/politik/kreistag/protokolle/protokolle-2020-2026/,2,25,6,7,1,1,15,0,3,0,60,1343.96,138086,103,9.8,81202,2.1,0,0,0,0,18,0,0,0,0,0,
+9374,Landkreis,Neustadt a.d.Waldnaab,DE237,https://buergerinfo.neustadt.de/info.asp,3,24,11,4,2,0,9,0,7,0,60,1427.69,95954,67,6.1,82401,3,1,1,0,0,17,1,0,0,0,0,
+9375,Landkreis,Regensburg,DE238,https://www.landkreis-regensburg.de/unser-landkreis/kreistag/sitzungskalender/,4,24,7,9,2,1,20,0,3,0,70,1391.65,198160,142,NA,NA,NA,NA,NA,NA,NA,12,1,0,0,1,0,keine genauen Abstimmungsergebnisse
+9376,Landkreis,Schwandorf,DE239,https://bis.landkreis-schwandorf.de/info.php,3,23,10,5,1,1,8,0,9,0,60,1458.34,151711,104,9.4,74400,3.1,1,1,0,0,18,6,0,0,0,0,
+9377,Landkreis,Tirschenreuth,DE23A,https://buergerinfo.kreis-tir.de/info.php,0,21,7,4,1,0,11,0,6,0,50,1084.25,72172,67,5.1,89066,3.1,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+9461,Kreisfreie Stadt,Bamberg,DE241,https://www.stadt.bamberg.de/buergerinformationssystem/,2,11,6,11,2,2,0,0,7,0,41,54.62,79935,1463,16.2,67616,4.6,0,0,0,0,57,0,0,0,0,0,AfD erst ab Mai 2020 im Stadtrat.
+9462,Kreisfreie Stadt,Bayreuth,DE242,https://online-dienste.bayreuth.de/sessionnet/buergerinfo/info.asp,2,10,8,8,2,1,7,0,6,0,44,66.89,74506,1114,13.8,72295,4.5,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten
+9463,Kreisfreie Stadt,Coburg,DE243,https://ris.coburg.de/,3,18,11,6,0,1,12,0,7,1,59,48.29,41842,866,12.4,98188,5.5,0,0,0,0,55,0,0,0,0,0,AfD erst ab Mai 2020 im Stadtrat.
+9464,Kreisfreie Stadt,Hof,DE244,https://www.stadt-hof.org/session/bi/info.php,2,13,10,4,6,1,0,0,1,1,38,58.02,46656,804,19.1,61214,6.1,0,0,0,0,54,0,0,0,0,0,AfD erst ab Mai 2020 im Stadtrat.
+9471,Landkreis,Bamberg,DE245,https://buergerinfo-kreis-ba.digitalfabrix.de/info.asp,5,23,8,8,2,1,7,0,6,0,60,1167.79,149122,128,NA,NA,NA,0,0,0,0,26,2,0,0,0,0,Teilweise keine Protokolle
+9472,Landkreis,Bayreuth,DE246,https://www.landkreis-bayreuth.de/bi/5/info.asp,2,17,8,8,2,0,11,0,12,0,60,1273.62,104702,82,NA,NA,NA,2,2,0,0,29,12,0,0,0,0,
+9473,Landkreis,Coburg,DE247,https://www.landkreis-coburg.de/buergerinfo/info.php,3,18,12,7,1,1,12,0,6,0,60,590.42,87103,148,NA,NA,NA,0,0,0,0,41,1,0,0,0,0,Teilweise keine Protokolle
+9474,Landkreis,Forchheim,DE248,https://sitzung.lra-fo.de/si0040.php,2,21,7,11,2,0,12,0,5,0,60,642.83,117948,183,7.2,86371,2.9,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten
+9475,Landkreis,Hof,DE249,NA,4,24,12,5,1,0,8,0,6,0,60,892.52,94589,106,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten.
+9476,Landkreis,Kronach,DE24A,https://www.landkreis-kronach.de/landkreis-und-gemeinden/kreisorgane/termine-und-tagesordnungen/,3,19,10,4,0,0,8,0,6,0,50,651.49,66393,102,5.7,68301,3.4,0,0,0,0,17,0,0,0,0,0,Teilweise keine Protokolle
+9477,Landkreis,Kulmbach,DE24B,https://buergerinfo.landkreis-kulmbach.de/info.php,3,16,9,5,2,1,10,0,4,0,50,658.33,71653,109,5.9,73943,3.5,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten
+9478,Landkreis,Lichtenfels,DE24C,https://www.lkr-lif.de/kreistag/sitzungsunterlagen/kreistag/index.html,3,19,10,6,0,0,7,0,5,0,50,519.94,67328,129,6.9,67470,3.6,0,0,0,0,15,0,0,0,0,0,nur Beschlüsse veröffentlicht
+9479,Landkreis,Wunsiedel i.Fichtelgebirge,DE24D,https://buergerinfo-landkreis-wunsiedel.digitalfabrix.de/info.asp,4,19,13,4,0,0,10,0,0,0,50,606.37,72006,119,9,69364,4.5,1,1,0,0,21,2,0,0,0,0,
+9561,Kreisfreie Stadt,Ansbach,DE251,https://www.ansbach.de/B%C3%BCrger/Rathaus-Service/Stadtrat-Politik/Sitzungskalender/,3,11,5,5,0,3,5,0,8,0,40,99.91,42221,423,15.5,70328,4,3,3,0,0,55,11,0,0,0,0,AfD erst ab Mai 2020 im Stadtrat.
+9562,Kreisfreie Stadt,Erlangen,DE252,https://ratsinfo.erlangen.de/info.asp,2,15,11,10,2,2,2,0,5,0,49,76.96,116562,1515,20,104473,4.1,0,0,0,0,48,3,0,0,0,0,AfD erst ab Mai 2020 im Stadtrat.
+9563,Kreisfreie Stadt,Fürth,DE253,https://stadtrat.fuerth.de/info.asp,3,9,22,10,1,3,2,0,0,0,50,63.35,131433,2075,20.1,78836,5.6,1,1,0,0,48,4,0,0,0,0,AfD erst ab Mai 2020 im Stadtrat.
+9564,Kreisfreie Stadt,Nürnberg,DE254,https://online-service2.nuernberg.de/buergerinfo/info.asp,4,22,18,14,1,3,2,0,6,0,70,186.44,523026,2805,23.9,81571,6.1,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten
+9565,Kreisfreie Stadt,Schwabach,DE255,https://ratsinfo.schwabach.de/info.asp,0,13,10,9,2,1,4,0,0,1,40,40.8,41227,1010,14.2,70398,3.8,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+9571,Landkreis,Ansbach,DE256,https://landratsamt-ansbach.ratsinfomanagement.net/termine,0,28,8,11,3,2,14,0,4,0,70,1971.32,188623,96,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+9572,Landkreis,Erlangen-Höchstadt,DE257,https://www.erlangen-hoechstadt.de/verwaltung/sitzungsinformationen/sitzungskalender/,3,21,7,12,2,0,11,4,0,0,60,564.55,140994,250,9.4,81701,2.5,0,0,0,0,30,0,0,0,0,0,
+9573,Landkreis,Fürth,DE258,https://buergerinfo-landkreis-fuerth.digitalfabrix.de/info.php,4,23,10,11,2,2,7,0,1,0,60,307.44,119923,390,NA,NA,NA,0,0,0,0,56,4,0,0,0,0,
+9574,Landkreis,Nürnberger Land,DE259,https://kreistag.nuernberger-land.de/bi/info.php,4,22,10,14,2,1,15,0,2,0,70,799.52,172665,216,9.4,74287,2.7,0,0,0,0,27,2,0,0,0,0,
+9575,Landkreis,Neustadt a.d.Aisch-Bad Windsheim,DE25A,https://buergerinfo-kreis-nea.digitalfabrix.de/info.asp,1,23,8,8,1,1,10,0,8,0,60,1267.45,103303,82,9.1,69542,2.3,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten
+9576,Landkreis,Roth,DE25B,https://buergerinfo.landratsamt-roth.de/info.asp,3,20,13,10,2,1,10,0,1,0,60,895.16,128694,144,7.5,74620,2.4,0,0,0,0,20,1,0,0,0,0,
+9577,Landkreis,Weißenburg-Gunzenhausen,DE25C,https://kreistag.landkreis-wug.de/kreistagsinfo/info.asp,0,26,10,9,2,1,9,0,3,0,60,970.78,97120,100,10.3,69579,3.4,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+9661,Kreisfreie Stadt,Aschaffenburg,DE261,https://ris.aschaffenburg.de/Home.mvc,2,14,12,10,2,0,0,0,4,0,44,62.45,72444,1160,18.2,91547,5.7,0,0,0,0,72,3,0,0,0,0,AfD erst ab Mai 2020 im Stadtrat.
+9662,Kreisfreie Stadt,Schweinfurt,DE262,https://schweinfurt.gremien.info/index.php,4,17,8,6,1,3,3,0,2,0,44,35.7,54675,1532,20.2,82677,6.2,1,1,0,0,46,3,0,0,0,0,AfD erst ab Mai 2020 im Stadtrat. Keine Protokolle vorhanden.
+9663,Kreisfreie Stadt,Würzburg,DE263,https://www.wuerzburg.sitzung-online.de/BI/si010_e.asp,2,13,4,16,3,3,4,0,3,2,50,87.6,127810,1459,12.8,67261,3.8,2,2,0,0,64,15,0,0,0,0,AfD erst ab Mai 2020 im Stadtrat.
+9671,Landkreis,Aschaffenburg,DE264,https://www.landkreis-aschaffenburg.de/landkreis/kreisorgane/sitzungs/,4,28,9,13,3,1,10,0,2,0,70,698.9,176958,253,NA,NA,NA,0,0,0,0,21,1,0,0,0,0,
+9672,Landkreis,Bad Kissingen,DE265,https://www.landkreis-badkissingen.de/buerger--politik/kreistag/oeffentliche-beschluesse/7617.Kreistag.html,3,25,7,9,1,1,7,,7,2,62,1136.9,104567,92,6.6,67254,3.3,0,0,0,0,19,0,0,0,0,0,nur Beschlüsse veröffentlicht
+9673,Landkreis,Rhön-Grabfeld,DE266,https://buergerinfo.landkreis-rhoen-grabfeld.de/info.php,0,28,5,8,2,1,13,0,3,0,60,1021.68,80341,79,5.7,80194,2.8,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+9674,Landkreis,Haßberge,DE267,https://www.hassberge.de/ratsinformationssystem.html#/councilservice/session/list,0,21,9,6,4,1,10,0,9,0,60,956.19,84984,89,5,68607,2.9,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+9675,Landkreis,Kitzingen,DE268,https://buergerinfo.kitzingen.de/info.php,3,18,6,8,2,0,20,0,3,0,60,684.14,93247,136,10.2,71157,2.5,0,0,0,0,17,0,0,0,0,0,
+9676,Landkreis,Miltenberg,DE269,https://www.landkreis-miltenberg.de/buergerinfo/si0040.asp,0,20,7,10,3,1,11,0,8,0,60,715.58,129835,181,11.8,80392,3.2,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+9677,Landkreis,Main-Spessart,DE26A,NA,2,19,8,12,0,0,11,0,8,0,60,1321.2,127132,96,7.8,82228,2.2,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten.
+9678,Landkreis,Schweinfurt,DE26B,https://www.landkreis-schweinfurt.de/landkreis/kreistag-ausschuesse/oeffentliche-sitzungen/,4,25,11,8,1,1,10,0,0,0,60,841.39,117044,139,NA,NA,NA,0,0,0,0,16,6,0,0,0,0,
+9679,Landkreis,Würzburg,DE26C,https://www.landkreis-wuerzburg.de/B%C3%BCrger-Politik-Verwaltung/Politik-im-Landkreis/%C3%96ffentliche-Sitzungen/,2,27,9,14,2,2,11,0,2,1,70,968.35,165339,171,NA,NA,NA,1,1,0,0,27,3,0,0,0,0,
+9761,Kreisfreie Stadt,Augsburg,DE271,https://ratsinfo.augsburg.de/bi/allris.net.asp,4,20,10,14,1,0,2,0,1,0,52,146.85,301033,2050,23.2,75289,5.9,0,0,0,0,58,4,0,0,0,0,
+9762,Kreisfreie Stadt,Kaufbeuren,DE272,https://buergerinfo.kaufbeuren.de/info.asp,1,13,3,6,1,0,6,0,9,0,39,40.02,45792,1144,17.9,65558,4.1,0,0,0,0,52,0,0,0,0,0,nur Beschlüsse veröffentlicht
+9763,Kreisfreie Stadt,Kempten (Allgäu),DE273,https://ratsinfo.kempten.de/bi/info.php,3,12,4,8,2,0,10,0,5,0,44,63.28,70056,1107,17.4,72692,3.8,0,0,0,0,52,4,0,0,0,0,"Keine Protokolle, nur Analyse von Beschlussanträgen"
+9764,Kreisfreie Stadt,Memmingen,DE274,https://ris.memmingen.de/bi/info.asp,2,10,7,5,2,1,5,0,8,0,40,70.11,45857,654,20.9,74945,3.6,0,0,0,0,34,0,0,0,0,0,Sitzungen erst ab September 2021 gelistet
+9771,Landkreis,Aichach-Friedberg,DE275,https://info.lra-aic-fdb.de/buergerinfo/info.php,5,25,7,9,1,0,7,0,3,3,60,780.23,137334,176,9.1,75529,2.6,1,1,0,0,27,7,0,0,0,0,
+9772,Landkreis,Augsburg,DE276,https://buergerinfo.landkreis-augsburg.de/info.asp#,5,30,7,12,2,1,11,0,2,0,70,1070.63,261342,244,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten
+9773,Landkreis,Dillingen a.d.Donau,DE277,https://www.landkreis-dillingen.de/Sitzungen.n39.html,3,19,6,7,2,1,11,1,10,0,60,792.23,99109,125,10.9,78598,2.5,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten
+9774,Landkreis,Günzburg,DE278,https://www.landkreis-guenzburg.de/landkreis/kreispolitik/sitzungsprotokolle/,5,23,6,9,3,1,9,0,4,0,60,762.4,130112,171,14.8,88235,2.4,1,1,0,0,18,9,0,0,0,0,
+9775,Landkreis,Neu-Ulm,DE279,https://landkreis.neu-ulm.ris-portal.de/,0,27,7,13,3,1,13,0,6,0,70,515.84,180425,350,16,76186,2.8,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD über gesamten Zeitraum hinweg.
+9776,Landkreis,Lindau (Bodensee),DE27A,https://ratsinfoservice.de/ris/lindau,2,20,6,13,2,1,8,0,8,0,60,323.39,83393,258,13.9,72319,2.9,0,0,0,0,19,0,0,0,0,0,
+9777,Landkreis,Ostallgäu,DE27B,https://buergerinfo-oal.digitalfabrix.de/info.asp,3,24,4,11,1,0,11,0,6,0,60,1394.44,145378,104,9.4,76341,2.8,1,1,0,0,16,6,0,0,0,0,
+9778,Landkreis,Unterallgäu,DE27C,https://buergerinfo-unterallgaeu.digitalfabrix.de/info.asp,5,19,4,8,1,0,15,0,8,0,60,1229.57,150068,122,10.4,80525,2.2,0,0,0,0,NA,1,0,0,0,0,
+9779,Landkreis,Donau-Ries,DE27D,https://web3.lra-donau-ries.de/buergerinfo/si0046.asp,3,21,7,8,1,1,6,0,13,0,60,1274.57,137137,108,10.6,81439,2.1,0,0,0,0,18,0,0,0,0,0,
+9780,Landkreis,Oberallgäu,DE27E,https://buergerinfo.lra-oa.de/info.asp,2,24,3,14,2,0,16,0,8,1,70,1527.97,158942,104,9.1,70301,2.7,0,0,0,0,21,1,0,0,0,0,
+10041,Regionalverband,Regionalverband Saarbrücken,1-Dec,https://snet.websvc.rvsbr.de/bi/si0040.php,4,14,14,7,2,4,0,0,0,0,45,410.95,330848,805,16.3,72215,9.6,0,0,0,0,37,1,0,0,0,0,Vielfach keine Protokolle.
+10042,Landkreis,Merzig-Wadern,2-Dec,https://buergerinfo.merzig-wadern.de/info.asp,2,14,10,4,1,2,0,0,0,0,33,556.66,104425,188,13,67317,4.6,0,0,0,0,35,0,0,0,0,0,
+10043,Landkreis,Neunkirchen,3-Dec,https://bilknk.rznk.de/info.php,3,12,12,3,1,2,0,0,0,0,33,249.8,132283,530,10.8,63969,7.3,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten.
+10044,Landkreis,Saarlouis,4-Dec,https://www.lk-saarlouis.sitzung-online.de/public/,3,12,11,4,1,2,0,0,0,0,33,459.35,195749,426,10.9,64100,5.7,0,0,0,0,53,2,0,0,0,0,
+10045,Landkreis,Saarpfalz-Kreis,5-Dec,https://www.saarpfalz-kreis.de/der-kreistag/sitzungen-des-kreistages,3,10,10,5,1,2,1,0,1,0,33,418.28,142419,340,10.1,72347,4.9,0,0,0,0,28,2,0,0,0,0,
+10046,Landkreis,St. Wendel,6-Dec,https://ratsinfoservice.de/ris/lkstwendel,1,14,8,2,0,1,1,0,0,0,27,476.48,86942,182,5.9,67678,3.6,0,0,0,0,32,3,0,0,0,0,
+11000,Kreisfreie Stadt,"Berlin, Stadt",DE300,https://www.parlament-berlin.de/dokumente/plenarmaterialien,16,52,34,34,0,21,0,0,0,2,159,891.12,3755251,4214,20.2,79182,9.8,NA,NA,NA,NA,NA,NA,0,0,0,1,Stadtstaaten werden nicht analysiert.
+12051,Kreisfreie Stadt,"Brandenburg an der Havel, Stadt",DE401,https://www.stadt-brandenburg.de/rathaus/stadtverordnete/termine-vorlagen,7,12,7,6,2,5,5,0,0,2,46,229.72,73609,320,6.4,64392,7.8,12,11,1,0,48,21,0,0,0,0,
+12052,Kreisfreie Stadt,"Cottbus, Stadt",DE402,https://session.cottbus.de/buerger/info.asp,6,9,7,4,6,7,4,0,4,1,48,165.62,99515,601,9.3,61287,7.8,19,17,2,0,56,20,0,0,0,0,
+12053,Kreisfreie Stadt,"Frankfurt (Oder), Stadt",DE403,https://ratsinfo-mobil.de/frankfurt-oder-bi/si010_e.asp,9,10,5,6,0,10,2,0,2,1,45,147.85,58230,394,12.2,61541,7.8,0,0,0,0,40,8,0,0,0,0,keine genauen Abstimmungsergebnisse
+12054,Kreisfreie Stadt,"Potsdam, Stadt",DE404,https://egov.potsdam.de/public/,3,6,11,10,3,8,0,0,13,0,54,188.24,185750,987,10.1,70536,5.6,1,1,0,0,47,156,0,0,0,0,keine genauen Abstimmungsergebnisse
+12060,Landkreis,Barnim,DE405,https://faw-2.barnim.de/termine,8,9,8,6,2,9,7,0,7,0,56,1479.59,191849,130,5.2,64521,5.5,0,0,0,0,23,61,0,0,0,0,keine genauen Abstimmungsergebnisse
+12061,Landkreis,Dahme-Spreewald,DE406,https://ris.dahme-spreewald.de/index.php,10,9,11,6,3,7,2,0,8,0,56,2274.49,178967,79,5.4,76540,3.9,5,5,0,0,32,22,0,0,0,0,
+12062,Landkreis,Elbe-Elster,DE407,https://www.ratsinfo-online.net/lkee-bi/si010_e.asp,9,13,6,2,2,5,2,0,11,0,50,1899.18,100902,53,3,63808,6.4,11,10,1,0,21,26,0,0,0,0,
+12063,Landkreis,Havelland,DE408,https://ratsinfo.havelland.de/bi/si010_e.asp,8,11,10,8,3,7,3,1,5,0,56,1727.31,169334,98,5.3,62856,5.4,1,1,0,0,20,18,0,0,0,0,
+12064,Landkreis,Märkisch-Oderland,DE409,https://www.ratsinfo-online.net/landkreis-mol-bi/si010_e.asp,10,9,10,6,3,10,3,0,5,0,56,2158.65,200292,93,3.9,66418,5.6,4,3,1,0,36,10,0,0,0,0,
+12065,Landkreis,Oberhavel,DE40A,https://www.oberhavel.de/buergerinfo/info.asp,8,11,10,7,3,7,4,1,5,0,56,1808.19,218551,121,4.5,81056,5.1,11,9,2,0,37,40,0,0,0,0,
+12066,Landkreis,Oberspreewald-Lausitz,DE40B,https://osl-online.gremien.info/index.php,10,10,11,3,2,6,2,1,5,0,50,1223.48,108263,88,3.8,63356,7.2,6,5,1,0,20,13,0,0,0,0,
+12067,Landkreis,Oder-Spree,DE40C,https://web.landkreis-oder-spree.de/somacos/sessionnet/bi/info.php,10,9,10,5,3,9,5,1,4,0,56,2256.76,182401,81,4.7,72307,6.2,19,19,0,0,27,36,0,0,0,0,
+12068,Landkreis,Ostprignitz-Ruppin,DE40D,https://sessionnet.krz.de/ostprignitz-ruppin/bi/info.asp,6,9,8,5,2,7,3,0,6,0,46,2526.46,99871,40,4.2,63705,6.2,2,2,0,0,24,23,0,0,0,0,
+12069,Landkreis,Potsdam-Mittelmark,DE40E,https://pm-belzig.gremien.info/,6,12,11,9,3,6,4,0,5,0,56,2592.03,222570,86,4.9,69215,4.1,2,2,0,0,26,6,0,0,0,0,
+12070,Landkreis,Prignitz,DE40F,https://sp.landkreis-prignitz.de/bi/info.asp,6,9,9,3,3,6,5,0,0,0,41,2138.58,76045,36,4.8,67622,7.5,0,0,0,0,18,0,0,0,0,0,
+12071,Landkreis,Spree-Neiße,DE40G,https://sessionnet.krz.de/lkspn/bi/info.asp,13,10,8,2,3,6,2,0,6,0,50,1656.99,112493,68,3.8,104529,6.1,2,2,0,0,46,8,0,0,0,0,
+12072,Landkreis,Teltow-Fläming,DE40H,https://sitzungsdienst.teltow-flaeming.de/buergerinfo/info.asp,9,9,10,6,2,9,4,0,7,0,56,2104.22,176648,84,6.3,77477,4.7,3,3,0,0,31,15,0,0,0,0,
+12073,Landkreis,Uckermark,DE40I,https://service.uckermark.de/sessionnet/bi/info.php,8,11,10,4,3,7,3,1,3,0,50,3077.02,117845,38,4.3,82829,10.3,1,1,0,0,30,13,0,0,0,0,
+13003,Kreisfreie Stadt,Rostock,DE803,https://ksd.rostock.de/bi/,5,8,8,10,2,11,1,0,8,0,53,181.36,209920,1157,7,70381,7.5,NA,NA,NA,NA,NA,NA,1,0,0,0,Keine AfD-Fraktion über gesamten Zeitraum hinweg (durch Austritte aus der Partei verlor die AfD schon nach wenigen Monaten ihren Fraktionsstatus).
+13004,Kreisfreie Stadt,Schwerin,DE804,https://bis.schwerin.de/info.asp,7,10,7,4,0,7,0,0,6,4,45,130.52,98596,755,9.6,64208,9.2,39,39,0,0,37,212,0,0,0,0,
+13071,Landkreis,Mecklenburgische Seenplatte,DE80J,https://sessionnet.krz.de/lkmse/bi/info.asp,13,22,12,7,4,13,3,1,2,0,77,5495.58,259568,47,3.5,65142,8.7,8,8,0,0,21,68,0,0,0,0,
+13072,Landkreis,Landkreis Rostock,DE80K,https://www.landkreis-rostock.sitzung-online.de/,9,20,11,6,4,11,4,1,2,1,69,3431.2,220807,64,NA,NA,NA,4,4,0,0,33,52,0,0,0,0,
+13073,Landkreis,Vorpommern-Rügen,DE80L,https://www.lk-vr.de/Willkommen/Bekanntmachungen/Kreistag/,10,20,7,7,3,11,2,0,9,0,69,3215.73,227683,71,4.7,61466,9.1,3,3,0,0,21,40,0,0,0,0,
+13074,Landkreis,Nordwestmecklenburg,DE80M,https://ris.nordwestmecklenburg.de/sessionnet/buergerinfo/info.php,8,14,13,6,3,10,1,1,5,0,61,2127.07,160288,75,4,72135,6.5,24,24,0,0,40,44,0,0,0,0,
+13075,Landkreis,Vorpommern-Greifswald,DE80N,https://kreis-vg.ratsinfomanagement.net/,12,20,7,6,2,9,2,2,9,0,69,3945.66,237355,60,4.8,59650,8.6,7,7,0,0,26,34,0,0,0,0,
+13076,Landkreis,Ludwigslust-Parchim,DE80O,https://www.lwl-pch.sitzung-online.de/bi/allris.net.asp,10,20,17,5,4,12,2,1,6,0,77,4766.77,214161,45,5.6,69207,6,17,16,1,0,29,70,0,0,0,0,
+14511,Kreisfreie Stadt,"Chemnitz, Stadt",DED41,https://sessionnet.krz.de/chemnitz/bi/info.asp,9,13,7,9,4,11,0,0,5,2,60,221.03,248563,1125,9.3,63840,7.2,8,8,0,0,50,79,0,0,0,0,"Aufgrund der Präsenz von PRO Chemnitz wird Kooperation erst ab mehr als 5 zusätzlichen Stimmen gewertet, Teilweise keine Abstimmungsergebnisse vorhanden"
+14521,Landkreis,Erzgebirgskreis,DED42,https://ris-erzgebirgskreis.zv-kisa.de/,21,32,5,5,4,11,18,2,0,0,98,1827.93,328850,180,2.5,56707,4.5,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten
+14522,Landkreis,Mittelsachsen,DED43,https://ratsinfo-online.net/landkreismittelsachsen-bi/si010_e.asp,22,28,9,5,5,11,16,0,2,0,98,2116.83,300639,142,3.8,65015,5,2,2,0,0,13,8,0,0,0,0,"Sitzungen erst ab 2022 gelistet, keine Protokoll"
+14523,Landkreis,Vogtlandkreis,DED44,https://www2.vogtlandkreis.de/ratsinfo/,17,27,9,5,8,11,7,0,2,0,86,1412.39,222666,158,4.2,59864,5,1,0,0,1,28,6,0,0,0,0,"Anfangs keine Protokolle verfügbar, nur Analyse von Beschlussanträgen"
+14524,Landkreis,Zwickau,DED45,https://www.landkreis-zwickau.de/bi/info.asp,19,30,7,6,6,14,15,1,0,0,98,949.8,310838,327,4.2,65399,4.6,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten
+14612,Kreisfreie Stadt,"Dresden, Stadt",DED21,https://ratsinfo.dresden.de/info.asp,13,11,8,13,5,10,6,0,0,4,70,328.48,563311,1715,8.7,70771,6.1,46,44,2,0,64,83,0,0,0,0,
+14625,Landkreis,Bautzen,DED2C,https://webservice.landkreis-bautzen.de/bi/si010_e.asp,29,29,8,5,6,10,10,0,1,0,98,2395.59,297711,124,2.5,60840,5.4,14,14,0,0,27,33,0,0,0,0,
+14626,Landkreis,Görlitz,DED2D,https://buergerinfoportal.landkreis.gr/,27,23,4,5,3,8,11,0,5,0,86,2111.41,249681,118,5.2,67113,7.9,8,2,6,0,28,8,0,0,0,0,
+14627,Landkreis,Meißen,DED2E,https://lra-meissen.gremien.info/,23,27,5,7,6,9,8,1,0,0,86,1454.59,241343,166,3.5,64679,5.5,6,6,0,0,24,15,0,0,0,0,
+14628,Landkreis,Sächsische Schweiz-Osterzgebirge,DED2F,https://landratsamt-pirna.gremien.info/,25,26,4,6,4,9,0,0,1,0,75,1654.2,246204,149,3.1,60178,4.8,7,6,1,0,27,16,0,0,0,0,
+14713,Kreisfreie Stadt,"Leipzig, Stadt",DED51,https://ratsinformation.leipzig.de/allris_leipzig_public/,11,12,9,15,0,16,0,0,4,0,67,297.8,616093,2069,10.6,67660,7.3,30,30,0,0,95,241,0,0,0,0,
+14729,Landkreis,Leipzig,DED52,https://www.lk-l.info/,15,20,12,6,4,11,0,0,18,0,86,1651.27,260429,158,NA,NA,NA,2,2,0,0,22,18,0,0,0,0,
+14730,Landkreis,Nordsachsen,DED53,https://info.landkreis-nordsachsen.de/sessionnet/bi/info.php,16,23,13,4,4,8,11,1,0,0,80,2028.55,199824,99,4.6,66955,6.6,0,0,0,0,18,1,0,0,0,0,"Keine Protokolle, nur Analyse von Beschlussanträgen"
+15001,Kreisfreie Stadt,"Dessau-Roßlau, Stadt",DEE01,https://sessionnet.dessau.de/bi/info.asp,8,12,5,5,5,7,0,0,7,1,50,245.05,79655,325,6.3,63961,8.1,3,3,0,0,42,5,0,0,0,0,
+15002,Kreisfreie Stadt,"Halle (Saale), Stadt",DEE02,https://buergerinfo.halle.de/infobi.asp,8,10,6,9,3,10,1,0,9,0,56,135.03,242083,1793,11.1,64737,9.1,6,6,0,0,63,67,0,0,0,0,
+15003,Kreisfreie Stadt,"Magdeburg, Landeshauptstadt",DEE03,https://ratsinfo.magdeburg.de/info.asp,8,10,10,11,6,8,0,0,3,0,56,201.04,239364,1191,11,64845,8.3,40,40,0,0,92,221,0,0,0,0,
+15081,Landkreis,Altmarkkreis Salzwedel,DEE04,https://ris.altmarkkreis-salzwedel.info/buergerinfo/info.php,6,11,7,3,2,8,5,0,0,0,42,2294.98,82457,36,3.9,64517,6.3,0,0,0,0,26,1,0,0,0,0,
+15082,Landkreis,Anhalt-Bitterfeld,DEE05,https://ratsinfo.anhalt-bitterfeld.de/bi/info.php,10,14,6,3,3,7,6,0,5,0,54,1455.09,157235,108,4.3,77415,6.9,14,11,3,0,43,16,0,0,0,0,
+15083,Landkreis,Börde,DEE07,https://kreistag.landkreis-boerde.de/public/,9,16,8,3,4,7,7,0,0,0,54,2367.65,171393,72,3.7,73772,5,5,3,2,0,30,3,0,0,0,0,
+15084,Landkreis,Burgenlandkreis,DEE08,https://www.ratsinfo-online.de/blk-bi/do011_x.asp,9,15,7,3,3,6,10,1,0,0,54,1414.09,177212,125,6.1,66587,6.5,4,4,0,0,30,13,0,0,0,0,
+15085,Landkreis,Harz,DEE09,https://kreis-hz.ratsinfomanagement.net/,9,18,9,6,3,10,5,0,0,0,60,2105.25,210381,100,3.3,61414,5.7,4,2,2,0,34,7,0,0,0,0,
+15086,Landkreis,Jerichower Land,DEE06,https://buergerinfo.lkjl.de/info.php,6,10,8,3,2,6,7,0,0,0,42,1579.1,90256,57,3.8,69235,6.9,5,5,0,0,26,9,0,0,0,0,
+15087,Landkreis,Mansfeld-Südharz,DEE0A,https://session.mansfeldsuedharz.de/sessionnet_bi/info.asp,9,9,7,2,3,8,6,0,4,0,48,1448.97,132034,91,3.2,60495,9.7,8,5,3,0,34,12,0,0,0,0,
+15088,Landkreis,Saalekreis,DEE0B,https://ratsinfo.saalekreis.de/bi/info.php,11,15,6,4,5,8,0,0,5,0,54,1434.46,183974,128,4.1,86285,6.4,13,11,2,0,27,34,0,0,0,0,
+15089,Landkreis,Salzlandkreis,DEE0C,https://bi.salzlandkreis.de/info.asp,9,14,8,3,5,8,7,0,0,0,54,1428.16,186420,131,3.7,70363,7.9,1,1,0,0,26,3,0,0,0,0,
+15090,Landkreis,Stendal,DEE0D,https://session.stendal.de/bi/info.php,8,12,5,2,3,8,0,0,10,0,48,2424.67,110291,45,4,72757,8.8,19,18,1,0,41,26,0,0,0,0,
+15091,Landkreis,Wittenberg,DEE0E,https://sitzungsdienst.landkreis-wittenberg.de/bi/info.asp,8,12,7,2,1,6,11,1,0,0,48,1933.65,123888,64,4.1,65548,6.7,7,6,1,0,29,9,0,0,0,0,
+16051,Kreisfreie Stadt,"Erfurt, Stadt",DEG01,https://buergerinfo.erfurt.de/bi/info.php,7,10,10,6,4,8,0,0,4,0,49,269.91,214969,796,9.7,66005,6.1,3,3,0,0,55,132,0,0,0,0,
+16052,Kreisfreie Stadt,"Gera, Stadt",DEG02,https://gera.ratsinfomanagement.net/,12,6,3,3,3,8,0,0,5,2,42,152.18,93634,615,7.9,60822,7.9,6,5,1,0,56,13,0,0,0,0,
+16053,Kreisfreie Stadt,"Jena, Stadt",DEG03,https://rathaus.jena.de/de/sitzungskalender,5,6,6,9,6,10,1,0,3,0,46,114.77,111191,969,10.6,73015,5.6,0,0,0,0,71,7,0,0,0,0,keine genauen Abstimmungsergebnisse
+16054,Kreisfreie Stadt,"Suhl, Stadt",DEG04,https://suhltrifft.ris-portal.de/,3,12,4,4,0,7,5,0,0,0,35,141.62,37009,261,9.2,60076,5.8,1,1,0,0,64,7,0,0,0,0,
+16055,Kreisfreie Stadt,"Weimar, Stadt",DEG05,https://sessionnet.krz.de/weimar/bi/info.asp,4,7,6,9,6,7,0,0,1,2,42,84.47,65620,777,9.6,63978,6.1,3,3,0,0,40,45,0,0,0,0,Teilweise keine Protokolle
+16061,Landkreis,Eichsfeld,DEG06,https://www.kreis-eic.de/ausschuesse.html,6,22,2,3,2,3,4,1,3,0,46,943.07,100091,106,4,61660,4.1,8,8,0,0,21,17,0,0,0,0,
+16062,Landkreis,Nordhausen,DEG07,https://ratsinfo.landratsamt-nordhausen.de/,9,12,7,3,3,8,0,1,3,0,46,713.91,82444,115,5.1,61141,7.4,2,2,0,0,28,12,0,0,0,0,
+16063,Landkreis,Wartburgkreis,DEG0P,https://bi.wartburgkreis.de/info.php,8,18,4,3,2,7,6,1,1,0,50,1371.14,159539,116,5.2,68984,5.3,3,3,0,0,28,32,0,0,0,0,
+16064,Landkreis,Unstrut-Hainich-Kreis,DEG09,https://sessionnet.unstrut-hainich-kreis.de/bi/info.php,8,12,9,3,3,5,6,0,0,0,46,979.68,102256,104,4.3,59105,7.1,2,2,0,0,34,5,0,0,0,0,
+16065,Landkreis,Kyffhäuserkreis,DEG0A,https://bi.lrakyf.de/info.asp,7,10,10,1,1,7,3,1,0,0,40,1037.91,73690,71,3.2,67503,7.5,0,0,0,0,20,10,0,0,0,0,Teilweise keine Abstimmungsergebnisse vorhanden
+16066,Landkreis,Schmalkalden-Meiningen,DEG0B,https://www.lra-sm.de/?page_id=2500,9,13,12,4,3,5,3,0,1,0,50,1251.21,123939,99,4.6,62705,4.5,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten
+16067,Landkreis,Gotha,DEG0C,http://buergerinfo.kreis-gth.de/info.php,9,13,13,3,2,5,5,0,0,0,50,936.08,134941,144,7.5,64782,5.4,2,1,1,0,32,28,0,0,0,0,
+16068,Landkreis,Sömmerda,DEG0D,https://lra-soemmerda.ris-portal.de/web/ratsinformation/startseite,7,15,3,2,2,7,3,1,0,0,40,806.85,69646,86,3.5,65685,6.2,2,1,1,0,19,4,0,0,0,0,
+16069,Landkreis,Hildburghausen,DEG0E,"https://kreistag.landkreis-hildburghausen.de/Aktuelles-Allgemeines/Sitzungsunterlagen/index.php?La=1&object=tx,3130.130.1&kat=&kuo=2&sub=0",5,11,4,2,1,6,8,0,3,0,40,938.42,61926,66,3.9,64901,4,NA,NA,NA,NA,NA,NA,0,1,0,0,Keine Daten
+16070,Landkreis,Ilm-Kreis,DEG0F,https://ilm-kreis.ris-portal.de/startseite,9,11,4,4,2,8,8,0,0,0,46,805.11,106776,133,6.8,66250,5.4,NA,NA,NA,NA,NA,NA,0,1,0,0,Daten erst ab Ende 2023 veröffentlicht
+16071,Landkreis,Weimarer Land,DEG0G,https://weimarerland.ratsinfomanagement.net/startseite,8,15,3,3,2,5,6,1,3,0,46,804.48,83179,103,4.6,66247,4.3,4,4,0,0,26,16,0,0,0,0,
+16072,Landkreis,Sonneberg,DEG0H,https://kreis-sonneberg.ratsinformationsdienst.de/,10,15,3,2,2,8,0,0,0,0,40,460.85,56922,124,6.2,65344,4.5,6,6,0,0,35,11,0,0,0,0,
+16073,Landkreis,Saalfeld-Rudolstadt,DEG0I,https://lk-slf-ru.ratsinfomanagement.net/,10,11,7,2,3,5,0,0,8,0,46,1008.78,101494,101,3.1,66160,5.8,1,1,0,0,28,10,0,0,0,0,
+16074,Landkreis,Saale-Holzland-Kreis,DEG0J,https://ratsinfo-online.net/landkreisshk-bi/si010_e.asp,7,14,3,3,3,7,0,0,9,0,46,815.24,83234,102,3.9,65152,4.4,2,2,0,0,23,9,0,0,0,0,
+16075,Landkreis,Saale-Orla-Kreis,DEG0K,https://ratsinfo.saale-orla-kreis.de/buergerinfo/info.asp,9,15,4,2,3,6,0,0,7,0,46,1151.3,79178,69,4,74339,4.7,23,22,1,0,27,32,0,0,0,0,
+16076,Landkreis,Greiz,DEG0L,https://session.landkreis-greiz.de/bi/info.php,9,17,4,2,2,5,2,0,5,0,46,845.98,96381,114,3,62154,4.8,3,3,0,0,17,8,0,0,0,0,
+16077,Landkreis,Altenburger Land,DEG0M,https://sessionnet.altenburgerland.de/bi/info.php,10,13,7,2,2,7,0,0,5,0,46,569.39,88787,156,4.1,60693,6.6,1,1,0,0,26,4,0,0,0,0,
